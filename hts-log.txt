@@ -1,0 +1,1085 @@
+HTTrack3.49-5 launched on Sun, 16 Feb 2025 06:27:40 at https://pgc.edu/
+(httrack https://pgc.edu/ -O /root/pgc_backup )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:30:10	Error: 	"Forbidden" (403) at link https://pgc.edu/xmlrpc.php?rsd (from https://pgc.edu/)
+06:30:10	Error: 	"Not Found" (404) at link https://pgc.edu/img/cross.png (from https://pgc.edu/)
+06:30:10	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/uploads/2023/07/videobanner-home.jpg?id=70870 (from https://pgc.edu/)
+06:36:03	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/galanogrotesquebold-webfont.woff (from https://pgc.edu/wp-content/themes/pgc-new/css/main.css?ver=63478)
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=71281
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=71281 to https://pgc.edu/about-us/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=35223
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=35223 to https://pgc.edu/undergrad/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=243
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=243 to https://pgc.edu/rules-and-regulations/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=265
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=265 to https://pgc.edu/home-story-scholarships-and-concessions-for-all/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=230
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=230 to https://pgc.edu/f-a/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=228
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=228 to https://pgc.edu/f-a-general-science/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=204
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=204 to https://pgc.edu/f-sc-pre-engineering/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=224
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=224 to https://pgc.edu/f-sc-pre-medical/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=232
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=232 to https://pgc.edu/i-c-s/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=234
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=234 to https://pgc.edu/i-com/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=238
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=238 to https://pgc.edu/b-a/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=236
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=236 to https://pgc.edu/b-sc/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=240
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=240 to https://pgc.edu/b-com/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=13463
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=13463 to https://pgc.edu/4-year-bachelor-degree-programmes/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=71267
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=71267 to https://pgc.edu/activities/
+06:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=172
+06:36:15	Warning: 	File has moved from https://pgc.edu/?p=172 to https://pgc.edu/blog/
+06:37:38	Warning: 	Link https://pgc.edu/blog/page/2/ not scanned (follow robots meta tag)
+06:37:38	Warning: 	Link https://pgc.edu/blog/page/3/ not scanned (follow robots meta tag)
+06:37:38	Warning: 	Link https://pgc.edu/blog/page/4/ not scanned (follow robots meta tag)
+06:37:38	Warning: 	Link https://pgc.edu/blog/page/5/ not scanned (follow robots meta tag)
+06:37:38	Warning: 	Link https://pgc.edu/blog/page/6/ not scanned (follow robots meta tag)
+06:37:38	Warning: 	Link https://pgc.edu/blog/page/7/ not scanned (follow robots meta tag)
+06:37:38	Warning: 	Link https://pgc.edu/blog/page/8/ not scanned (follow robots meta tag)
+06:37:38	Warning: 	Link https://pgc.edu/blog/page/9/ not scanned (follow robots meta tag)
+06:37:38	Warning: 	Link https://pgc.edu/blog/page/10/ not scanned (follow robots meta tag)
+06:37:38	Warning: 	Link https://pgc.edu/blog/page/11/ not scanned (follow robots meta tag)
+06:37:38	Warning: 	Moved Permanently for https://pgc.edu/?p=7594
+06:37:38	Warning: 	File has moved from https://pgc.edu/?p=7594 to https://pgc.edu/news-and-events/
+06:38:45	Warning: 	Link https://pgc.edu/news-and-events/page/2/ not scanned (follow robots meta tag)
+06:38:45	Warning: 	Link https://pgc.edu/news-and-events/page/3/ not scanned (follow robots meta tag)
+06:38:45	Warning: 	Link https://pgc.edu/news-and-events/page/4/ not scanned (follow robots meta tag)
+06:38:45	Warning: 	Link https://pgc.edu/news-and-events/page/5/ not scanned (follow robots meta tag)
+06:38:45	Warning: 	Link https://pgc.edu/news-and-events/page/6/ not scanned (follow robots meta tag)
+06:38:45	Warning: 	Link https://pgc.edu/news-and-events/page/7/ not scanned (follow robots meta tag)
+06:38:45	Warning: 	Link https://pgc.edu/news-and-events/page/8/ not scanned (follow robots meta tag)
+06:38:45	Warning: 	Link https://pgc.edu/news-and-events/page/9/ not scanned (follow robots meta tag)
+06:39:24	Warning: 	Moved Permanently for https://pgc.edu/?p=14172
+06:39:24	Warning: 	File has moved from https://pgc.edu/?p=14172 to https://pgc.edu/make-pak-green/
+06:40:36	Warning: 	Moved Permanently for https://pgc.edu/?p=71263
+06:40:36	Warning: 	File has moved from https://pgc.edu/?p=71263 to https://pgc.edu/contact-us/
+06:40:36	Warning: 	Moved Permanently for https://pgc.edu/?p=15410
+06:40:36	Warning: 	File has moved from https://pgc.edu/?p=15410 to https://pgc.edu/careers/
+06:40:42	Warning: 	Moved Permanently for https://pgc.edu/?p=14166
+06:40:42	Warning: 	File has moved from https://pgc.edu/?p=14166 to https://pgc.edu/microsoft-certification-is-being-offered-to-all-punjab-colleges-students/
+06:40:42	Error: 	"Forbidden" (403) at link https://pgc.edu/xmlrpc.php (from https://pgc.edu/microsoft-certification-is-being-offered-to-all-punjab-colleges-students/)
+06:41:05	Warning: 	Moved Permanently for https://pgc.edu/?p=1
+06:41:05	Warning: 	File has moved from https://pgc.edu/?p=1 to https://pgc.edu/coronavirus-advisory/
+06:41:19	Warning: 	Moved Permanently for https://pgc.edu/?p=6340
+06:41:19	Warning: 	File has moved from https://pgc.edu/?p=6340 to https://pgc.edu/our-achievers/
+06:45:48	Warning: 	Link https://pgc.edu/our-achievers/page/2/ not scanned (follow robots meta tag)
+06:45:48	Warning: 	Link https://pgc.edu/our-achievers/page/3/ not scanned (follow robots meta tag)
+06:45:48	Warning: 	Link https://pgc.edu/our-achievers/page/4/ not scanned (follow robots meta tag)
+06:45:50	Warning: 	Moved Permanently for https://pgc.edu/?p=103172
+06:45:50	Warning: 	File has moved from https://pgc.edu/?p=103172 to https://pgc.edu/what-makes-pgc-takra-2024-25-bigger-bolder-and-brighter/
+06:46:15	Error: 	"Bad Request" (400) at link https://pgc.edu/wp-admin/admin-ajax.php (from https://pgc.edu/what-makes-pgc-takra-2024-25-bigger-bolder-and-brighter/)
+06:46:15	Warning: 	Moved Permanently for https://pgc.edu/?p=14816
+06:46:15	Warning: 	File has moved from https://pgc.edu/?p=14816 to https://pgc.edu/student-survey/
+06:46:30	Warning: 	Moved Permanently for https://pgc.edu/?p=103166
+06:46:30	Warning: 	File has moved from https://pgc.edu/?p=103166 to https://pgc.edu/world-aids-day-2024-take-the-rights-path/
+06:46:37	Warning: 	Moved Permanently for https://pgc.edu/?p=103121
+06:46:37	Warning: 	File has moved from https://pgc.edu/?p=103121 to https://pgc.edu/lahore-smog-2024-with-the-worst-air-quality/
+06:47:14	Warning: 	Moved Permanently for https://pgc.edu/?p=103113
+06:47:14	Warning: 	File has moved from https://pgc.edu/?p=103113 to https://pgc.edu/explore-the-teachers-impact-on-international-teachers-day-2024/
+06:47:26	Warning: 	Moved Permanently for https://pgc.edu/?p=103004
+06:47:26	Warning: 	File has moved from https://pgc.edu/?p=103004 to https://pgc.edu/win-big-with-arvo-books-pgc-calling-punjabians-to-participate/
+06:47:58	Warning: 	Moved Permanently for https://pgc.edu/?p=102981
+06:47:58	Warning: 	File has moved from https://pgc.edu/?p=102981 to https://pgc.edu/global-literacy-day-2024-pgc-fetes-glorious-results-for-intermediate/
+06:48:02	Warning: 	Moved Permanently for https://pgc.edu/?p=102978
+06:48:02	Warning: 	File has moved from https://pgc.edu/?p=102978 to https://pgc.edu/september-6-national-defence-day-of-pakistan/
+06:48:28	Warning: 	Moved Permanently for https://pgc.edu/?p=101440
+06:48:28	Warning: 	File has moved from https://pgc.edu/?p=101440 to https://pgc.edu/what-is-better-ics-or-icom/
+06:48:49	Warning: 	Moved Permanently for https://pgc.edu/?p=100874
+06:48:49	Warning: 	File has moved from https://pgc.edu/?p=100874 to https://pgc.edu/fsc-pre-engineering-in-2024-reasons-to-choose-pgc/
+06:49:10	Warning: 	Moved Permanently for https://pgc.edu/?p=58505
+06:49:10	Warning: 	File has moved from https://pgc.edu/?p=58505 to https://pgc.edu/punjab-colleges-1st-year-admissions-last-date-to-apply/
+06:49:36	Warning: 	Moved Permanently for https://pgc.edu/?p=103146
+06:49:36	Warning: 	File has moved from https://pgc.edu/?p=103146 to https://pgc.edu/news/understanding-the-impact-of-misinformation-on-society-and-the-importance-of-media-literacy/
+06:49:36	Warning: 	Moved Permanently for https://pgc.edu/?p=102907
+06:49:36	Warning: 	File has moved from https://pgc.edu/?p=102907 to https://pgc.edu/news/intermediate-part-ii-results-2024-to-be-declared-in-4th-september-2024/
+06:49:36	Warning: 	Moved Permanently for https://pgc.edu/?p=94993
+06:49:36	Warning: 	File has moved from https://pgc.edu/?p=94993 to https://pgc.edu/news/matric-result-2024-announced-across-punjabs-educational-boards/
+06:49:36	Warning: 	Moved Permanently for https://pgc.edu/?p=61361
+06:49:36	Warning: 	File has moved from https://pgc.edu/?p=61361 to https://pgc.edu/news/class-11-result-is-out-do-check-yours-now/
+06:49:36	Warning: 	Moved Permanently for https://pgc.edu/?p=59184
+06:49:36	Warning: 	File has moved from https://pgc.edu/?p=59184 to https://pgc.edu/news/honouring-nation-builders-pgc-provides-teachers-children-special-scholarships/
+06:49:36	Warning: 	Moved Permanently for https://pgc.edu/?p=58299
+06:49:36	Warning: 	File has moved from https://pgc.edu/?p=58299 to https://pgc.edu/news/pgcs-irass-qumar-secures-150-scholarship-at-york-university/
+06:49:36	Warning: 	Moved Permanently for https://pgc.edu/?p=57685
+06:49:36	Warning: 	File has moved from https://pgc.edu/?p=57685 to https://pgc.edu/news/matric-result-2022-to-be-out-tomorrow/
+06:49:36	Warning: 	Moved Permanently for https://pgc.edu/punjab-colleges-1st-year-admissions-2022-complete-guide/
+06:49:36	Warning: 	File has moved from https://pgc.edu/punjab-colleges-1st-year-admissions-2022-complete-guide/ to https://pgc.edu/punjab-colleges-1st-year-admissions-2023-complete-guide/
+06:49:36	Warning: 	Moved Permanently for https://pgc.edu/?p=57404
+06:49:36	Warning: 	File has moved from https://pgc.edu/?p=57404 to https://pgc.edu/news/pgc-robotics-exhibition-2022-era-of-robotics-begins/
+06:49:36	Warning: 	Moved Permanently for https://pgc.edu/?p=30945
+06:49:36	Warning: 	File has moved from https://pgc.edu/?p=30945 to https://pgc.edu/news/top-three-positions-of-ecat-2021-grabbed-by-step-students/
+06:49:36	Warning: 	Moved Permanently for https://pgc.edu/?p=4680
+06:49:36	Warning: 	File has moved from https://pgc.edu/?p=4680 to https://pgc.edu/news/embracing-blossom-of-spring-and-promoting-sports-culture/
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/images/glyphicons-halflings-regular.svg (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-assets-css-min-bootstrap.min.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/fonts/GalanoGrotesque-Bold.eot (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/fonts/GalanoGrotesque-Bold.woff2 (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/fonts/GalanoGrotesque-Light.eot (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/fonts/GalanoGrotesque-Light.woff2 (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/fonts/GalanoGrotesque-Medium.woff2 (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/fonts/GalanoGrotesque-Medium.woff (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/fonts/GalanoGrotesque-Medium.ttf (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/fonts/GalanoGrotesque-SemiBold.eot (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/fonts/GalanoGrotesque-SemiBold.woff2 (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/fonts/GalanoGrotesqueAlt-Regular.otf (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/fonts/GalanoGrotesqueAlt-Regular10.otf (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/fonts/GalanoGrotesqueAlt-Regular31.otf (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/fonts/GalanoGrotesqueAlt-Regular91.otf (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/fonts/GalanoGrotesqueAlt-SemiBold.otf (from https://pgc.edu/wp-content/themes/pgc-new/pgc-makegreen/css/wechange-style.css)
+06:49:42	Warning: 	Moved Permanently for https://pgc.edu/?p=14781
+06:49:42	Warning: 	File has moved from https://pgc.edu/?p=14781 to https://pgc.edu/make-green-news/
+06:49:42	Warning: 	Moved Permanently for https://pgc.edu/?p=14782
+06:49:42	Warning: 	File has moved from https://pgc.edu/?p=14782 to https://pgc.edu/make-green-gallery/
+06:49:42	Warning: 	Moved Permanently for https://pgc.edu/?p=14585
+06:49:42	Warning: 	File has moved from https://pgc.edu/?p=14585 to https://pgc.edu/recruitment-form/
+06:49:42	Warning: 	Link https://pgc.edu/category/blog/page/2/ not scanned (follow robots meta tag)
+06:49:42	Warning: 	Moved Permanently for https://pgc.edu/?p=14145
+06:49:42	Warning: 	File has moved from https://pgc.edu/?p=14145 to https://pgc.edu/philosophy-of-education/
+06:49:51	Warning: 	Moved Permanently for https://pgc.edu/?p=14161
+06:49:51	Warning: 	File has moved from https://pgc.edu/?p=14161 to https://pgc.edu/multicultural-education/
+06:49:58	Warning: 	Moved Permanently for https://pgc.edu/?p=9234
+06:49:58	Warning: 	File has moved from https://pgc.edu/?p=9234 to https://pgc.edu/effects-of-pollution-on-humans/
+06:49:58	Warning: 	Moved Permanently for https://pgc.edu/?p=705
+06:49:58	Warning: 	File has moved from https://pgc.edu/?p=705 to https://pgc.edu/education-brings-smartness-as-a-key-to-success/
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/2/?achievers=2022 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/3/?achievers=2022 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/4/?achievers=2022 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/2/?achievers=2020 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/3/?achievers=2020 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/4/?achievers=2020 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/2/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/3/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/4/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/5/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/6/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/7/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/8/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/9/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/10/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/11/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/12/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/13/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/14/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/15/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/16/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/17/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/18/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/19/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/20/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/21/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/22/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/23/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/24/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/25/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/26/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/27/?achievers=2019 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/2/?achievers=2017 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/3/?achievers=2017 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/4/?achievers=2017 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/2/?achievers=2016 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/3/?achievers=2016 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/4/?achievers=2016 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/2/?achievers=2015 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/3/?achievers=2015 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/4/?achievers=2015 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/2/?achievers=2014 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/3/?achievers=2014 not scanned (follow robots meta tag)
+06:50:05	Warning: 	Link https://pgc.edu/our-achievers/page/4/?achievers=2014 not scanned (follow robots meta tag)
+06:50:05	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/assets-high/+a+ (from https://pgc.edu/wp-content/themes/pgc-new/assets-high/owl.carousel.min.js.download)
+06:50:05	Error: 	"Bad Request" (400) at link https://pgc.edu/wp-content/themes/pgc-new/assets-high/%url% (from https://pgc.edu/wp-content/themes/pgc-new/assets-high/jquery.magnific-popup.min.js.download)
+06:50:05	Warning: 	Moved Permanently for https://pgc.edu/?p=60766
+06:50:05	Warning: 	File has moved from https://pgc.edu/?p=60766 to https://pgc.edu/pgctakra/
+06:50:07	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/vendor/scrollbar/OneSignalSDKUpdaterWorker.js.php (from https://pgc.edu/wp-content/themes/pgc-new/vendor/scrollbar/mCSB_buttons.html)
+06:50:07	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/vendor/scrollbar/OneSignalSDKWorker.js.php (from https://pgc.edu/wp-content/themes/pgc-new/vendor/scrollbar/mCSB_buttons.html)
+06:50:07	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/pgc-new/vendor/scrollbar/favicon.ico (from https://pgc.edu/wp-content/themes/pgc-new/vendor/scrollbar/mCSB_buttons.html)
+06:50:07	Error: 	"Not Found" (404) at link https://pgc.edu/theme-support (from https://pgc.edu/wp-content/themes/pgc-new/vendor/scrollbar/mCSB_buttons.html)
+06:50:07	Error: 	"Not Found" (404) at link https://pgc.edu/wp-content/themes/supportdesk/supportdesk/blogheaderbg.jpg (from https://pgc.edu/wp-content/themes/pgc-new/vendor/scrollbar/mCSB_buttons.html)
+06:50:07	Warning: 	Moved Permanently for https://pgc.edu/?p=61607
+06:50:07	Warning: 	File has moved from https://pgc.edu/?p=61607 to https://pgc.edu/world-aids-day-2022-essence-observance/
+06:50:22	Warning: 	Moved Permanently for https://pgc.edu/?p=58805
+06:50:22	Warning: 	File has moved from https://pgc.edu/?p=58805 to https://pgc.edu/precautions-to-be-taken-when-dealing-with-smog-in-2023/
+06:52:06	Warning: 	Moved Permanently for https://pgc.edu/?p=59186
+06:52:06	Warning: 	File has moved from https://pgc.edu/?p=59186 to https://pgc.edu/a-favorite-teacher-is-a-future-approach-them-on-teachers-day/
+06:52:22	Warning: 	Moved Permanently for https://pgc.edu/?p=90080
+06:52:22	Warning: 	File has moved from https://pgc.edu/?p=90080 to https://pgc.edu/arvo-digital-books-future-of-learning-in-pakistan/
+06:53:03	Warning: 	Moved Permanently for https://pgc.edu/?p=74793
+06:53:03	Warning: 	File has moved from https://pgc.edu/?p=74793 to https://pgc.edu/defence-day-2023-lets-revive-the-valour-of-september-1965/
+06:53:19	Warning: 	Moved Permanently for https://pgc.edu/?p=58116
+06:53:19	Warning: 	File has moved from https://pgc.edu/?p=58116 to https://pgc.edu/6th-september-pakistans-defence-day-a-tale-of-courage-and-heroism/
+06:53:59	Warning: 	Moved Permanently for https://pgc.edu/?p=30926
+06:53:59	Warning: 	File has moved from https://pgc.edu/?p=30926 to https://pgc.edu/all-about-fsc-pre-engineering/
+06:54:13	Warning: 	Moved Permanently for https://pgc.edu/?p=96033
+06:54:13	Warning: 	File has moved from https://pgc.edu/?p=96033 to https://pgc.edu/we-got-life/
+06:54:13	Warning: 	Moved Permanently for https://pgc.edu/?p=359
+06:54:13	Warning: 	File has moved from https://pgc.edu/?p=359 to https://pgc.edu/societies-clubs/
+06:54:13	Warning: 	Moved Permanently for https://pgc.edu/?p=99464
+06:54:13	Warning: 	File has moved from https://pgc.edu/?p=99464 to https://pgc.edu/study-fsc-pre-medical-at-pgc-like-never-before/
+06:54:21	Warning: 	Moved Permanently for https://pgc.edu/?p=4405
+06:54:21	Warning: 	File has moved from https://pgc.edu/?p=4405 to https://pgc.edu/news/pgc-rawalpindi-celebrating-the-success-of-high-achievers/
+06:54:27	Warning: 	Moved Permanently for https://pgc.edu/?p=14147
+06:54:27	Warning: 	File has moved from https://pgc.edu/?p=14147 to https://pgc.edu/how-do-employers-verify-education/
+06:54:34	Warning: 	Moved Permanently for https://pgc.edu/?p=14159
+06:54:34	Warning: 	File has moved from https://pgc.edu/?p=14159 to https://pgc.edu/classical-education/
+06:54:41	Warning: 	Moved Permanently for https://pgc.edu/?p=9113
+06:54:41	Warning: 	File has moved from https://pgc.edu/?p=9113 to https://pgc.edu/css-exam-in-pakistan/
+06:54:47	Warning: 	Moved Permanently for https://pgc.edu/?p=61369
+06:54:47	Warning: 	File has moved from https://pgc.edu/?p=61369 to https://pgc.edu/what-are-bs-physics-subjects-in-pakistan/
+06:54:54	Warning: 	Moved Permanently for https://pgc.edu/?p=61945
+06:54:54	Warning: 	File has moved from https://pgc.edu/?p=61945 to https://pgc.edu/which-ten-engineering-fields-are-best-in-pakistan/
+06:55:02	Warning: 	Moved Permanently for https://pgc.edu/?p=76233
+06:55:02	Warning: 	File has moved from https://pgc.edu/?p=76233 to https://pgc.edu/how-important-is-economics-in-our-daily-lives-reasons-to-get-bs-economics-degree/
+06:55:10	Warning: 	Moved Permanently for https://pgc.edu/?p=77739
+06:55:10	Warning: 	File has moved from https://pgc.edu/?p=77739 to https://pgc.edu/how-digital-payment-benefits-pakistan/
+06:55:25	Warning: 	Moved Permanently for https://pgc.edu/?p=82510
+06:55:25	Warning: 	File has moved from https://pgc.edu/?p=82510 to https://pgc.edu/avail-free-punjab-college-admissions-for-pre-1st-year-2024/
+06:55:25	Warning: 	Moved Permanently for https://pgc.edu/?p=82162
+06:55:25	Warning: 	File has moved from https://pgc.edu/?p=82162 to https://pgc.edu/how-early-college-classes-can-shape-your-future/
+06:55:25	Warning: 	Moved Permanently for https://pgc.edu/?p=66653
+06:55:25	Warning: 	File has moved from https://pgc.edu/?p=66653 to https://pgc.edu/how-is-pre-first-year-beneficial-for-fsc-students/
+06:55:25	Warning: 	Moved Permanently for https://pgc.edu/?p=67304
+06:55:25	Warning: 	File has moved from https://pgc.edu/?p=67304 to https://pgc.edu/pre-first-year-classes-by-pgc-are-the-best-for-career-oriented-students/
+06:55:36	Warning: 	Moved Permanently for https://pgc.edu/?p=30529
+06:55:36	Warning: 	File has moved from https://pgc.edu/?p=30529 to https://pgc.edu/a-guide-to-fsc-pre-medical/
+06:55:48	Warning: 	Moved Permanently for https://pgc.edu/?p=75884
+06:55:48	Warning: 	File has moved from https://pgc.edu/?p=75884 to https://pgc.edu/careers-in-adp-business-administration-get-your-admission-now/
+06:55:48	Warning: 	Moved Permanently for https://pgc.edu/?p=76042
+06:55:48	Warning: 	File has moved from https://pgc.edu/?p=76042 to https://pgc.edu/reasons-to-get-bs-computer-science-admissions-a-students-guide/
+06:55:48	Warning: 	Moved Permanently for https://pgc.edu/?p=89153
+06:55:48	Warning: 	File has moved from https://pgc.edu/?p=89153 to https://pgc.edu/are-you-ready-for-the-world-of-robots/
+06:55:54	Warning: 	Moved Permanently for https://pgc.edu/?p=95472
+06:55:54	Warning: 	File has moved from https://pgc.edu/?p=95472 to https://pgc.edu/pgc-online-intermediate-admissions-2024/
+06:55:54	Warning: 	Moved Permanently for https://pgc.edu/?p=98595
+06:55:54	Warning: 	File has moved from https://pgc.edu/?p=98595 to https://pgc.edu/benefits-of-gamification-in-college-education/
+06:55:54	Warning: 	Moved Permanently for https://pgc.edu/?p=87128
+06:55:54	Warning: 	File has moved from https://pgc.edu/?p=87128 to https://pgc.edu/experience-modern-education-shift-from-traditional-to-digital-with-arvo/
+06:56:00	Warning: 	Moved Permanently for https://pgc.edu/?p=73215
+06:56:00	Warning: 	File has moved from https://pgc.edu/?p=73215 to https://pgc.edu/inter-in-faculty-of-arts-fa-is-your-gateway-to-social-sciences/
+06:56:07	Warning: 	Moved Permanently for https://pgc.edu/?p=75755
+06:56:07	Warning: 	File has moved from https://pgc.edu/?p=75755 to https://pgc.edu/5-reasons-to-pursue-bba-in-2023-from-ucp-colleges/
+06:56:07	Warning: 	Moved Permanently for https://pgc.edu/?p=58106
+06:56:07	Warning: 	File has moved from https://pgc.edu/?p=58106 to https://pgc.edu/punjab-colleges-rawalpindi-intermediate-admissions-2022/
+06:56:15	Warning: 	Moved Permanently for https://pgc.edu/?p=58136
+06:56:15	Warning: 	File has moved from https://pgc.edu/?p=58136 to https://pgc.edu/punjab-college-fa-admissions-2022/
+06:56:22	Warning: 	Moved Permanently for https://pgc.edu/?p=84640
+06:56:22	Warning: 	File has moved from https://pgc.edu/?p=84640 to https://pgc.edu/shape-your-career-with-adp-apply-at-ucp-colleges-admissions-2024-now/
+06:56:26	Warning: 	Moved Permanently for https://pgc.edu/?p=30516
+06:56:26	Warning: 	File has moved from https://pgc.edu/?p=30516 to https://pgc.edu/join-pak-army-online-registration-2021/
+06:56:26	Warning: 	Moved Permanently for https://pgc.edu/join-pak-army-online-registration/
+06:56:26	Warning: 	File has moved from https://pgc.edu/join-pak-army-online-registration/ to https://pgc.edu/join-pak-army-online-registration-2021/
+06:56:32	Warning: 	Moved Permanently for https://pgc.edu/?p=30509
+06:56:32	Warning: 	File has moved from https://pgc.edu/?p=30509 to https://pgc.edu/online-earning-without-investment/
+06:56:39	Warning: 	Moved Permanently for https://pgc.edu/?p=57484
+06:56:39	Warning: 	File has moved from https://pgc.edu/?p=57484 to https://pgc.edu/punjab-colleges-1st-year-admissions-2023-complete-guide/
+06:56:55	Warning: 	Moved Permanently for https://pgc.edu/?p=4403
+06:56:55	Warning: 	File has moved from https://pgc.edu/?p=4403 to https://pgc.edu/news/precaution-is-always-better-than-cure/
+06:57:00	Warning: 	Moved Permanently for https://pgc.edu/?p=14134
+06:57:00	Warning: 	File has moved from https://pgc.edu/?p=14134 to https://pgc.edu/special-education-teacher/
+06:57:08	Warning: 	Moved Permanently for https://pgc.edu/?p=14156
+06:57:08	Warning: 	File has moved from https://pgc.edu/?p=14156 to https://pgc.edu/primary-education/
+06:57:15	Warning: 	Moved Permanently for https://pgc.edu/?p=9116
+06:57:15	Warning: 	File has moved from https://pgc.edu/?p=9116 to https://pgc.edu/is-education-mandatory-for-all/
+06:57:23	Warning: 	Moved Permanently for https://pgc.edu/?p=61364
+06:57:23	Warning: 	File has moved from https://pgc.edu/?p=61364 to https://pgc.edu/employment-vs-business-what-is-best-in-pakistan/
+06:57:37	Warning: 	Moved Permanently for https://pgc.edu/?p=62332
+06:57:37	Warning: 	File has moved from https://pgc.edu/?p=62332 to https://pgc.edu/prepare-matric-exams-for-all-ssc-boards-of-pakistan-for-free/
+06:57:45	Warning: 	Moved Permanently for https://pgc.edu/?p=76159
+06:57:45	Warning: 	File has moved from https://pgc.edu/?p=76159 to https://pgc.edu/why-study-finance-benefits-of-getting-adp-in-accounting-finance/
+06:57:45	Warning: 	Moved Permanently for https://pgc.edu/?p=64925
+06:57:45	Warning: 	File has moved from https://pgc.edu/?p=64925 to https://pgc.edu/top-5-online-earning-opportunities-in-pakistan-in-2023/
+06:58:07	Warning: 	Moved Permanently for https://pgc.edu/?p=81463
+06:58:07	Warning: 	File has moved from https://pgc.edu/?p=81463 to https://pgc.edu/free-pre-1st-year-2024-at-pgc-is-open-now/
+06:58:07	Warning: 	Moved Permanently for https://pgc.edu/?p=87220
+06:58:07	Warning: 	File has moved from https://pgc.edu/?p=87220 to https://pgc.edu/top-skills-you-can-learn-from-adp-computer-science-at-pgc/
+06:58:07	Warning: 	Moved Permanently for https://pgc.edu/?p=29523
+06:58:07	Warning: 	File has moved from https://pgc.edu/?p=29523 to https://pgc.edu/dalda-scholarship-2021-2022/
+06:58:19	Error: 	"Not Found" (404) at link https://pgc.edu/mardan-board-fsc-result-2021/ (from https://pgc.edu/dalda-scholarship-2021-2022/)
+06:58:19	Error: 	"Not Found" (404) at link https://pgc.edu/aiou-tutor-letter-2021/ (from https://pgc.edu/dalda-scholarship-2021-2022/)
+06:58:27	Warning: 	Moved Permanently for https://pgc.edu/?p=84995
+06:58:27	Warning: 	File has moved from https://pgc.edu/?p=84995 to https://pgc.edu/get-your-favorite-bs-degree-at-ucp-colleges-admissions-2024/
+06:58:27	Warning: 	Moved Permanently for https://pgc.edu/?p=72684
+06:58:27	Warning: 	File has moved from https://pgc.edu/?p=72684 to https://pgc.edu/pgc-online-intermediate-admissions-2023-with-scholarships/
+06:58:36	Warning: 	Moved Permanently for https://pgc.edu/?p=58100
+06:58:36	Warning: 	File has moved from https://pgc.edu/?p=58100 to https://pgc.edu/punjab-colleges-ics-admissions-2022/
+06:58:43	Warning: 	Moved Permanently for https://pgc.edu/?p=58196
+06:58:43	Warning: 	File has moved from https://pgc.edu/?p=58196 to https://pgc.edu/11th-class-admissions-how-to-apply-online-at-punjab-colleges/
+06:58:50	Warning: 	Moved Permanently for https://pgc.edu/?p=13567
+06:58:50	Warning: 	File has moved from https://pgc.edu/?p=13567 to https://pgc.edu/pak-army/
+06:59:04	Warning: 	Moved Permanently for https://pgc.edu/?p=31484
+06:59:04	Warning: 	File has moved from https://pgc.edu/?p=31484 to https://pgc.edu/fbise-result/
+06:59:11	Warning: 	Moved Permanently for https://pgc.edu/?p=70841
+06:59:11	Warning: 	File has moved from https://pgc.edu/?p=70841 to https://pgc.edu/highest-paying-bachelors-degrees-in-2023-in-pakistan/
+06:59:41	Warning: 	Moved Permanently for https://pgc.edu/?p=71207
+06:59:41	Warning: 	File has moved from https://pgc.edu/?p=71207 to https://pgc.edu/your-search-for-the-best-colleges-in-punjab-completes-here-at-pgc/
+06:59:48	Warning: 	Moved Permanently for https://pgc.edu/?p=4351
+06:59:48	Warning: 	File has moved from https://pgc.edu/?p=4351 to https://pgc.edu/news/pgc-167-positions/
+06:59:53	Warning: 	Moved Permanently for https://pgc.edu/?p=14137
+06:59:53	Warning: 	File has moved from https://pgc.edu/?p=14137 to https://pgc.edu/health-education/
+07:00:00	Warning: 	Moved Permanently for https://pgc.edu/?p=14154
+07:00:00	Warning: 	File has moved from https://pgc.edu/?p=14154 to https://pgc.edu/plc-stand-for-in-education/
+07:00:07	Warning: 	Moved Permanently for https://pgc.edu/?p=9119
+07:00:07	Warning: 	File has moved from https://pgc.edu/?p=9119 to https://pgc.edu/why-mba-is-necessary-for-a-successful-career/
+07:00:15	Warning: 	Moved Permanently for https://pgc.edu/?p=33741
+07:00:15	Warning: 	File has moved from https://pgc.edu/?p=33741 to https://pgc.edu/business-in-pakistan/
+07:00:30	Warning: 	Moved Permanently for https://pgc.edu/?p=60834
+07:00:30	Warning: 	File has moved from https://pgc.edu/?p=60834 to https://pgc.edu/explore-the-top-6-best-fields-after-f-s-c/
+07:00:44	Warning: 	Moved Permanently for https://pgc.edu/?p=62552
+07:00:44	Warning: 	File has moved from https://pgc.edu/?p=62552 to https://pgc.edu/global-roundup-of-2022-top-events-of-the-year/
+07:01:00	Warning: 	Moved Permanently for https://pgc.edu/?p=58050
+07:01:00	Warning: 	File has moved from https://pgc.edu/?p=58050 to https://pgc.edu/top-10-high-paying-online-jobs-for-students-to-do-with-study/
+07:01:09	Warning: 	Moved Permanently for https://pgc.edu/?p=64906
+07:01:09	Warning: 	File has moved from https://pgc.edu/?p=64906 to https://pgc.edu/physics-for-class-9-complete-preparation-2023-prep-by-pgc/
+07:01:23	Warning: 	Moved Permanently for https://pgc.edu/?p=65068
+07:01:23	Warning: 	File has moved from https://pgc.edu/?p=65068 to https://pgc.edu/make-extensive-9th-class-english-notes-with-prep-by-pgc/
+07:01:31	Warning: 	Moved Permanently for https://pgc.edu/?p=13668
+07:01:31	Warning: 	File has moved from https://pgc.edu/?p=13668 to https://pgc.edu/how-do-school-loans-work/
+07:01:46	Warning: 	Moved Permanently for https://pgc.edu/?p=13664
+07:01:46	Warning: 	File has moved from https://pgc.edu/?p=13664 to https://pgc.edu/how-can-i-get-my-masters-funded/
+07:01:46	Warning: 	Moved Permanently for https://pgc.edu/?p=29521
+07:01:46	Warning: 	File has moved from https://pgc.edu/?p=29521 to https://pgc.edu/government-universities-in-islamabad/
+07:01:54	Warning: 	Moved Permanently for https://pgc.edu/?p=72417
+07:01:54	Warning: 	File has moved from https://pgc.edu/?p=72417 to https://pgc.edu/intermediate-admissions-2023-get-enrolled-in-icom-today/
+07:02:02	Warning: 	Moved Permanently for https://pgc.edu/?p=58090
+07:02:02	Warning: 	File has moved from https://pgc.edu/?p=58090 to https://pgc.edu/prep-by-pgc-the-best-app-to-access-free-english-notes-for-class-10/
+07:02:02	Warning: 	Moved Permanently for https://pgc.edu/?p=58200
+07:02:02	Warning: 	File has moved from https://pgc.edu/?p=58200 to https://pgc.edu/punjab-colleges-islamabad-11th-class-admissions-2022/
+07:02:11	Warning: 	Moved Permanently for https://pgc.edu/?p=13628
+07:02:11	Warning: 	File has moved from https://pgc.edu/?p=13628 to https://pgc.edu/i-com-subjects-1st-year-in-pakistan/
+07:02:18	Warning: 	Moved Permanently for https://pgc.edu/?p=13569
+07:02:18	Warning: 	File has moved from https://pgc.edu/?p=13569 to https://pgc.edu/what-is-fa-degree/
+07:02:25	Warning: 	Moved Permanently for https://pgc.edu/?p=31730
+07:02:25	Warning: 	File has moved from https://pgc.edu/?p=31730 to https://pgc.edu/d-pharmacy/
+07:02:34	Warning: 	Moved Permanently for https://pgc.edu/?p=34013
+07:02:34	Warning: 	File has moved from https://pgc.edu/?p=34013 to https://pgc.edu/bba-scope-in-pakistan/
+07:02:48	Warning: 	Moved Permanently for https://pgc.edu/?p=69751
+07:02:48	Warning: 	File has moved from https://pgc.edu/?p=69751 to https://pgc.edu/studying-bs-accounting-and-finance-in-2023-develops-market-driven-skills/
+07:03:05	Warning: 	Moved Permanently for https://pgc.edu/?p=34823
+07:03:05	Warning: 	File has moved from https://pgc.edu/?p=34823 to https://pgc.edu/scope-of-computer-science-in-pakistan/
+07:03:18	Warning: 	Moved Permanently for https://pgc.edu/?p=70461
+07:03:18	Warning: 	File has moved from https://pgc.edu/?p=70461 to https://pgc.edu/importance-of-associate-degree-program-adp-in-education/
+07:03:18	Warning: 	Moved Permanently for https://pgc.edu/?p=72082
+07:03:18	Warning: 	File has moved from https://pgc.edu/?p=72082 to https://pgc.edu/enrol-in-fsc-first-year-pgc-admissions-spree-2023/
+07:03:18	Warning: 	Moved Permanently for https://pgc.edu/?p=4350
+07:03:18	Warning: 	File has moved from https://pgc.edu/?p=4350 to https://pgc.edu/news/pgc-top-17-positions/
+07:03:23	Warning: 	Moved Permanently for https://pgc.edu/?p=14116
+07:03:23	Warning: 	File has moved from https://pgc.edu/?p=14116 to https://pgc.edu/brown-vs-board-of-education/
+07:03:30	Warning: 	Moved Permanently for https://pgc.edu/?p=14494
+07:03:30	Warning: 	File has moved from https://pgc.edu/?p=14494 to https://pgc.edu/what-education-does-for-the-mind/
+07:03:37	Warning: 	Moved Permanently for https://pgc.edu/?p=9122
+07:03:37	Warning: 	File has moved from https://pgc.edu/?p=9122 to https://pgc.edu/higher-education-scope-in-pakistan/
+07:03:45	Warning: 	Moved Permanently for https://pgc.edu/?p=33290
+07:03:45	Warning: 	File has moved from https://pgc.edu/?p=33290 to https://pgc.edu/dpt-scope-in-pakistan/
+07:03:53	Warning: 	Moved Permanently for https://pgc.edu/?p=33739
+07:03:53	Warning: 	File has moved from https://pgc.edu/?p=33739 to https://pgc.edu/online-college-admission-system/
+07:03:53	Warning: 	Moved Permanently for https://pgc.edu/?p=13616
+07:03:53	Warning: 	File has moved from https://pgc.edu/?p=13616 to https://pgc.edu/best-course-after-fsc-pre-medical-in-pakistan/
+07:04:00	Warning: 	Moved Permanently for https://pgc.edu/?p=60741
+07:04:00	Warning: 	File has moved from https://pgc.edu/?p=60741 to https://pgc.edu/what-is-the-scope-of-bs-mathematics-in-2023/
+07:04:07	Warning: 	Moved Permanently for https://pgc.edu/?p=62667
+07:04:07	Warning: 	File has moved from https://pgc.edu/?p=62667 to https://pgc.edu/pgc-roundup-2022/
+07:04:14	Warning: 	Moved Permanently for https://pgc.edu/?p=58035
+07:04:14	Warning: 	File has moved from https://pgc.edu/?p=58035 to https://pgc.edu/punjab-colleges-faisalabad-intermediate-admissions-2022/
+07:04:25	Warning: 	Moved Permanently for https://pgc.edu/?p=64264
+07:04:25	Warning: 	File has moved from https://pgc.edu/?p=64264 to https://pgc.edu/clear-9-class-physics-concepts-with-prep-by-pgc/
+07:04:41	Warning: 	Moved Permanently for https://pgc.edu/?p=64870
+07:04:41	Warning: 	File has moved from https://pgc.edu/?p=64870 to https://pgc.edu/level-up-your-urdu-preparation-from-urdu-past-papers-10th-class/
+07:04:48	Warning: 	Moved Permanently for https://pgc.edu/?p=65118
+07:04:48	Warning: 	File has moved from https://pgc.edu/?p=65118 to https://pgc.edu/10th-class-chemistry-past-papers-are-available-on-prep-by-pgc/
+07:04:56	Warning: 	Moved Permanently for https://pgc.edu/?p=13666
+07:04:56	Warning: 	File has moved from https://pgc.edu/?p=13666 to https://pgc.edu/how-do-people-afford-college-without-parents-help/
+07:04:56	Warning: 	Moved Permanently for https://pgc.edu/?p=13670
+07:04:56	Warning: 	File has moved from https://pgc.edu/?p=13670 to https://pgc.edu/short-courses-after-fa-general-science/
+07:05:03	Warning: 	Moved Permanently for https://pgc.edu/?p=29519
+07:05:03	Warning: 	File has moved from https://pgc.edu/?p=29519 to https://pgc.edu/10th-class-result-2021-bahawalpur-board/
+07:05:10	Warning: 	Moved Permanently for https://pgc.edu/?p=72220
+07:05:10	Warning: 	File has moved from https://pgc.edu/?p=72220 to https://pgc.edu/expand-your-horizons-with-intermediate-in-computer-science-ics-from-pgc/
+07:05:10	Warning: 	Moved Permanently for https://pgc.edu/?p=58244
+07:05:10	Warning: 	File has moved from https://pgc.edu/?p=58244 to https://pgc.edu/intermediate-admissions-2022-top-factors-to-consider-when-choosing-a-college/
+07:05:18	Warning: 	Moved Permanently for https://pgc.edu/?p=13624
+07:05:18	Warning: 	File has moved from https://pgc.edu/?p=13624 to https://pgc.edu/fine-arts-subjects-for-1st-year-in-pakistan/
+07:05:25	Warning: 	Moved Permanently for https://pgc.edu/?p=13726
+07:05:25	Warning: 	File has moved from https://pgc.edu/?p=13726 to https://pgc.edu/college-student-is-coming-home/
+07:05:32	Warning: 	Moved Permanently for https://pgc.edu/?p=32307
+07:05:32	Warning: 	File has moved from https://pgc.edu/?p=32307 to https://pgc.edu/an-introduction-to-intermediate-in-computer-science/
+07:05:39	Warning: 	Moved Permanently for https://pgc.edu/?p=34016
+07:05:39	Warning: 	File has moved from https://pgc.edu/?p=34016 to https://pgc.edu/scholarships-for-fsc-students/
+07:05:39	Warning: 	Moved Permanently for https://pgc.edu/?p=34554
+07:05:39	Warning: 	File has moved from https://pgc.edu/?p=34554 to https://pgc.edu/bs-accounting-and-finance-scope/
+07:05:39	Warning: 	Moved Permanently for https://pgc.edu/?p=69550
+07:05:39	Warning: 	File has moved from https://pgc.edu/?p=69550 to https://pgc.edu/ucp-colleges-open-the-bs-admissions-2023/
+07:05:47	Warning: 	Moved Permanently for https://pgc.edu/?p=70023
+07:05:47	Warning: 	File has moved from https://pgc.edu/?p=70023 to https://pgc.edu/what-is-an-adp-degree-adp-admissions-2023-at-ucp-colleges-open/
+07:05:55	Warning: 	Moved Permanently for https://pgc.edu/?p=34677
+07:05:55	Warning: 	File has moved from https://pgc.edu/?p=34677 to https://pgc.edu/punjab-group-of-colleges-jobs/
+07:05:59	Warning: 	Moved Permanently for https://pgc.edu/?p=34875
+07:05:59	Warning: 	File has moved from https://pgc.edu/?p=34875 to https://pgc.edu/kamyab-jawan-program-loan-apply/
+07:06:07	Warning: 	Moved Permanently for https://pgc.edu/?p=4349
+07:06:07	Warning: 	File has moved from https://pgc.edu/?p=4349 to https://pgc.edu/news/pgc-stands-tall-by-scoring-10-positions-in-associate-degree-programme/
+07:06:13	Warning: 	Moved Permanently for https://pgc.edu/?p=14089
+07:06:13	Warning: 	File has moved from https://pgc.edu/?p=14089 to https://pgc.edu/early-childhood-education/
+07:06:20	Warning: 	Moved Permanently for https://pgc.edu/?p=14496
+07:06:20	Warning: 	File has moved from https://pgc.edu/?p=14496 to https://pgc.edu/what-is-bilingual-education/
+07:06:27	Warning: 	Moved Permanently for https://pgc.edu/?p=9132
+07:06:27	Warning: 	File has moved from https://pgc.edu/?p=9132 to https://pgc.edu/what-is-the-main-purpose-of-education/
+07:06:42	Warning: 	Moved Permanently for https://pgc.edu/?p=33044
+07:06:42	Warning: 	File has moved from https://pgc.edu/?p=33044 to https://pgc.edu/federal-board-result/
+07:06:49	Warning: 	Moved Permanently for https://pgc.edu/?p=13614
+07:06:49	Warning: 	File has moved from https://pgc.edu/?p=13614 to https://pgc.edu/best-career-after-fsc-pre-medical-in-pakistan/
+07:06:55	Warning: 	Moved Permanently for https://pgc.edu/?p=60061
+07:06:55	Warning: 	File has moved from https://pgc.edu/?p=60061 to https://pgc.edu/every-ribbon-makes-a-difference-fight-breast-cancer-together/
+07:07:02	Warning: 	Moved Permanently for https://pgc.edu/?p=62917
+07:07:02	Warning: 	File has moved from https://pgc.edu/?p=62917 to https://pgc.edu/best-matric-app-2023-learn-language-speak-understand/
+07:07:16	Warning: 	Moved Permanently for https://pgc.edu/?p=57864
+07:07:16	Warning: 	File has moved from https://pgc.edu/?p=57864 to https://pgc.edu/punjab-colleges-secure-overall-1st-position-in-federal-board-results-2022/
+07:07:33	Warning: 	Moved Permanently for https://pgc.edu/?p=64089
+07:07:33	Warning: 	File has moved from https://pgc.edu/?p=64089 to https://pgc.edu/make-math-notes-class-9-from-pgc-video-lectures-for-free/
+07:07:41	Warning: 	Moved Permanently for https://pgc.edu/?p=64317
+07:07:41	Warning: 	File has moved from https://pgc.edu/?p=64317 to https://pgc.edu/9th-10th-class-math-notes-free/
+07:07:49	Warning: 	Moved Permanently for https://pgc.edu/?p=64859
+07:07:49	Warning: 	File has moved from https://pgc.edu/?p=64859 to https://pgc.edu/fear-of-forgetting-theorems-make-10-class-math-notes-today/
+07:07:56	Warning: 	Moved Permanently for https://pgc.edu/?p=65427
+07:07:56	Warning: 	File has moved from https://pgc.edu/?p=65427 to https://pgc.edu/make-9th-class-english-notes-with-professional-help-on-prep-by-pgc/
+07:08:03	Warning: 	Moved Permanently for https://pgc.edu/?p=13672
+07:08:03	Warning: 	File has moved from https://pgc.edu/?p=13672 to https://pgc.edu/short-courses-after-fsc-pre-medical/
+07:08:09	Warning: 	Moved Permanently for https://pgc.edu/?p=19734
+07:08:09	Warning: 	File has moved from https://pgc.edu/?p=19734 to https://pgc.edu/what-is-considered-higher-education/
+07:08:24	Warning: 	Moved Permanently for https://pgc.edu/?p=58307
+07:08:24	Warning: 	File has moved from https://pgc.edu/?p=58307 to https://pgc.edu/vibrant-campus-life-at-punjab-colleges/
+07:08:32	Warning: 	Moved Permanently for https://pgc.edu/?p=13620
+07:08:32	Warning: 	File has moved from https://pgc.edu/?p=13620 to https://pgc.edu/engineering-fields-after-fsc-pre-medical/
+07:08:39	Warning: 	Moved Permanently for https://pgc.edu/?p=13730
+07:08:39	Warning: 	File has moved from https://pgc.edu/?p=13730 to https://pgc.edu/computer-engineering-vs-computer-science/
+07:08:46	Warning: 	Moved Permanently for https://pgc.edu/?p=32394
+07:08:46	Warning: 	File has moved from https://pgc.edu/?p=32394 to https://pgc.edu/biomedical-engineering-in-pakistan/
+07:08:53	Warning: 	Moved Permanently for https://pgc.edu/?p=69321
+07:08:53	Warning: 	File has moved from https://pgc.edu/?p=69321 to https://pgc.edu/world-environment-day-2023/
+07:09:00	Warning: 	Link https://pgc.edu/courses/associate-degree-program/page/2/ not scanned (follow robots meta tag)
+07:09:52	Warning: 	Moved Permanently for https://pgc.edu/?p=34871
+07:09:52	Warning: 	File has moved from https://pgc.edu/?p=34871 to https://pgc.edu/civil-engineering-jobs-in-pakistan/
+07:09:59	Warning: 	Moved Permanently for https://pgc.edu/?p=4208
+07:09:59	Warning: 	File has moved from https://pgc.edu/?p=4208 to https://pgc.edu/news/pgc-rawalpindi-islamabad-grand-finales/
+07:10:05	Warning: 	Moved Permanently for https://pgc.edu/?p=14118
+07:10:05	Warning: 	File has moved from https://pgc.edu/?p=14118 to https://pgc.edu/secretary-of-education/
+07:10:12	Warning: 	Moved Permanently for https://pgc.edu/?p=14498
+07:10:12	Warning: 	File has moved from https://pgc.edu/?p=14498 to https://pgc.edu/what-is-common-core-education/
+07:10:19	Warning: 	Moved Permanently for https://pgc.edu/?p=14041
+07:10:19	Warning: 	File has moved from https://pgc.edu/?p=14041 to https://pgc.edu/purpose-of-education/
+07:10:34	Warning: 	Moved Permanently for https://pgc.edu/?p=9135
+07:10:34	Warning: 	File has moved from https://pgc.edu/?p=9135 to https://pgc.edu/concepts-of-education/
+07:10:43	Warning: 	Moved Permanently for https://pgc.edu/?p=32645
+07:10:43	Warning: 	File has moved from https://pgc.edu/?p=32645 to https://pgc.edu/uet-ecat-result/
+07:10:50	Warning: 	Moved Permanently for https://pgc.edu/?p=13611
+07:10:50	Warning: 	File has moved from https://pgc.edu/?p=13611 to https://pgc.edu/two-year-bachelor-degree-programs-in-lahore/
+07:10:58	Warning: 	Moved Permanently for https://pgc.edu/?p=60001
+07:10:58	Warning: 	File has moved from https://pgc.edu/?p=60001 to https://pgc.edu/all-you-need-to-know-about-fulbright-scholarship/
+07:10:58	Warning: 	Moved Permanently for https://pgc.edu/?p=59847
+07:10:58	Warning: 	File has moved from https://pgc.edu/?p=59847 to https://pgc.edu/intermediate-results-2022-punjab-colleges-outshine-all-by-securing-158-top-positions-across-all-intermediate-boards/
+07:11:04	Warning: 	Moved Permanently for https://pgc.edu/?p=62982
+07:11:04	Warning: 	File has moved from https://pgc.edu/?p=62982 to https://pgc.edu/free-access-to-physics-notes-for-class-10/
+07:11:11	Warning: 	Moved Permanently for https://pgc.edu/?p=57813
+07:11:11	Warning: 	File has moved from https://pgc.edu/?p=57813 to https://pgc.edu/punjab-college-gujrat-1st-year-admissions-2022/
+07:11:18	Warning: 	Moved Permanently for https://pgc.edu/?p=64065
+07:11:18	Warning: 	File has moved from https://pgc.edu/?p=64065 to https://pgc.edu/prepared-your-child-is-for-matric-exams-via-self-assessments/
+07:11:39	Warning: 	Moved Permanently for https://pgc.edu/?p=64761
+07:11:39	Warning: 	File has moved from https://pgc.edu/?p=64761 to https://pgc.edu/make-computer-notes-for-class-10-as-of-bise-syllabus/
+07:11:47	Warning: 	Moved Permanently for https://pgc.edu/?p=64830
+07:11:47	Warning: 	File has moved from https://pgc.edu/?p=64830 to https://pgc.edu/9th-class-math-notes-complete-guide-2023-board-exams/
+07:11:47	Warning: 	Moved Permanently for https://pgc.edu/?p=65470
+07:11:47	Warning: 	File has moved from https://pgc.edu/?p=65470 to https://pgc.edu/revise-accurate-formulations-with-10th-class-math-notes/
+07:11:54	Warning: 	Moved Permanently for https://pgc.edu/?p=13674
+07:11:54	Warning: 	File has moved from https://pgc.edu/?p=13674 to https://pgc.edu/short-courses-after-i-com/
+07:12:00	Warning: 	Moved Permanently for https://pgc.edu/?p=15347
+07:12:00	Warning: 	File has moved from https://pgc.edu/?p=15347 to https://pgc.edu/compulsory-education/
+07:12:16	Warning: 	Moved Permanently for https://pgc.edu/?p=19738
+07:12:16	Warning: 	File has moved from https://pgc.edu/?p=19738 to https://pgc.edu/why-is-early-childhood-education-important/
+07:12:24	Warning: 	Moved Permanently for https://pgc.edu/?p=58416
+07:12:24	Warning: 	File has moved from https://pgc.edu/?p=58416 to https://pgc.edu/prep-by-pgc-get-the-best-physics-class-9-video-lectures-for-free/
+07:12:31	Warning: 	Moved Permanently for https://pgc.edu/?p=13618
+07:12:31	Warning: 	File has moved from https://pgc.edu/?p=13618 to https://pgc.edu/college-rules-and-regulations-for-students/
+07:12:38	Warning: 	Moved Permanently for https://pgc.edu/?p=13733
+07:12:38	Warning: 	File has moved from https://pgc.edu/?p=13733 to https://pgc.edu/definition-of-education-by-different-authors/
+07:12:44	Warning: 	Moved Permanently for https://pgc.edu/?p=32564
+07:12:44	Warning: 	File has moved from https://pgc.edu/?p=32564 to https://pgc.edu/scope-of-criminology-in-pakistan/
+07:12:44	Warning: 	Moved Permanently for https://pgc.edu/?p=68992
+07:12:44	Warning: 	File has moved from https://pgc.edu/?p=68992 to https://pgc.edu/lets-say-no-to-tobacco-and-yes-to-healthy-foods/
+07:12:52	Warning: 	Moved Permanently for https://pgc.edu/?p=13456
+07:12:52	Warning: 	File has moved from https://pgc.edu/?p=13456 to https://pgc.edu/campus/lahore-allama-iqbal-town-campus/
+07:12:52	Error: 	"Not Found" (404) at link https://pgc.edu/campus/punjab-college-of-commerce-batala-colony-faisalabad/feed/ (from https://pgc.edu/campus/punjab-college-of-commerce-batala-colony-faisalabad/)
+07:12:52	Warning: 	Moved Permanently for https://pgc.edu/?p=668
+07:12:52	Warning: 	File has moved from https://pgc.edu/?p=668 to https://pgc.edu/campus/punjab-college-of-commerce-batala-colony-faisalabad/
+07:12:59	Error: 	"Not Found" (404) at link https://pgc.edu/campus/punjab-college-of-science-jaranwala-road-faisalabad/feed/ (from https://pgc.edu/campus/punjab-college-of-science-jaranwala-road-faisalabad/)
+07:12:59	Warning: 	Moved Permanently for https://pgc.edu/?p=669
+07:12:59	Warning: 	File has moved from https://pgc.edu/?p=669 to https://pgc.edu/campus/punjab-college-of-science-jaranwala-road-faisalabad/
+07:12:59	Error: 	"Not Found" (404) at link https://pgc.edu/campus/depalpur/feed/ (from https://pgc.edu/campus/depalpur/)
+07:12:59	Warning: 	Moved Permanently for https://pgc.edu/?p=654
+07:12:59	Warning: 	File has moved from https://pgc.edu/?p=654 to https://pgc.edu/campus/depalpur/
+07:12:59	Error: 	"Not Found" (404) at link https://pgc.edu/campus/punjab-college-for-women-peoples-colony-jaranwala-road-faisalabad/feed/ (from https://pgc.edu/campus/punjab-college-for-women-peoples-colony-jaranwala-road-faisalabad/)
+07:12:59	Warning: 	Moved Permanently for https://pgc.edu/?p=670
+07:12:59	Warning: 	File has moved from https://pgc.edu/?p=670 to https://pgc.edu/campus/punjab-college-for-women-peoples-colony-jaranwala-road-faisalabad/
+07:12:59	Error: 	"Not Found" (404) at link https://pgc.edu/campus/punjab-college-d-9-campus-rawalpindi/feed/ (from https://pgc.edu/campus/punjab-college-d-9-campus-rawalpindi/)
+07:12:59	Warning: 	Moved Permanently for https://pgc.edu/?p=655
+07:12:59	Warning: 	File has moved from https://pgc.edu/?p=655 to https://pgc.edu/campus/punjab-college-d-9-campus-rawalpindi/
+07:12:59	Error: 	"Not Found" (404) at link https://pgc.edu/campus/kahna/feed/ (from https://pgc.edu/campus/kahna/)
+07:12:59	Warning: 	Moved Permanently for https://pgc.edu/?p=671
+07:12:59	Warning: 	File has moved from https://pgc.edu/?p=671 to https://pgc.edu/campus/kahna/
+07:12:59	Error: 	"Not Found" (404) at link https://pgc.edu/campus/punjab-college-of-commerce-rawalpindi-cantt/feed/ (from https://pgc.edu/campus/punjab-college-of-commerce-rawalpindi-cantt/)
+07:12:59	Warning: 	Moved Permanently for https://pgc.edu/?p=656
+07:12:59	Warning: 	File has moved from https://pgc.edu/?p=656 to https://pgc.edu/campus/punjab-college-of-commerce-rawalpindi-cantt/
+07:12:59	Error: 	"Not Found" (404) at link https://pgc.edu/campus/punjab-college-ayub-park-campus-rawalpindi/feed/ (from https://pgc.edu/campus/punjab-college-ayub-park-campus-rawalpindi/)
+07:12:59	Warning: 	Moved Permanently for https://pgc.edu/?p=657
+07:12:59	Warning: 	File has moved from https://pgc.edu/?p=657 to https://pgc.edu/campus/punjab-college-ayub-park-campus-rawalpindi/
+07:12:59	Error: 	"Not Found" (404) at link https://pgc.edu/campus/punjab-college-for-women-rawalpindi/feed/ (from https://pgc.edu/campus/punjab-college-for-women-rawalpindi/)
+07:12:59	Warning: 	Moved Permanently for https://pgc.edu/?p=658
+07:12:59	Warning: 	File has moved from https://pgc.edu/?p=658 to https://pgc.edu/campus/punjab-college-for-women-rawalpindi/
+07:12:59	Warning: 	Moved Permanently for https://pgc.edu/?p=35066
+07:12:59	Warning: 	File has moved from https://pgc.edu/?p=35066 to https://pgc.edu/scope-of-zoology-in-pakistan/
+07:13:07	Warning: 	Moved Permanently for https://pgc.edu/?p=4204
+07:13:07	Warning: 	File has moved from https://pgc.edu/?p=4204 to https://pgc.edu/news/mehfil-e-milad-by-pgc-daska/
+07:13:13	Warning: 	Moved Permanently for https://pgc.edu/?p=14059
+07:13:13	Warning: 	File has moved from https://pgc.edu/?p=14059 to https://pgc.edu/continuing-education/
+07:13:20	Warning: 	Moved Permanently for https://pgc.edu/?p=14492
+07:13:20	Warning: 	File has moved from https://pgc.edu/?p=14492 to https://pgc.edu/education-is-the-most-powerful-weapon/
+07:13:27	Warning: 	Moved Permanently for https://pgc.edu/?p=14019
+07:13:27	Warning: 	File has moved from https://pgc.edu/?p=14019 to https://pgc.edu/secondary-education/
+07:13:34	Warning: 	Moved Permanently for https://pgc.edu/?p=14093
+07:13:34	Warning: 	File has moved from https://pgc.edu/?p=14093 to https://pgc.edu/how-much-does-the-us-spend-on-education/
+07:13:41	Warning: 	Moved Permanently for https://pgc.edu/?p=9138
+07:13:41	Warning: 	File has moved from https://pgc.edu/?p=9138 to https://pgc.edu/coronavirus-may-kill-100000-to-200000-people-dr-anthony-fauci/
+07:13:41	Error: 	"Not Found" (404) at link https://pgc.edu/fight-corona-virus (from https://pgc.edu/coronavirus-may-kill-100000-to-200000-people-dr-anthony-fauci/)
+07:13:41	Error: 	"Not Found" (404) at link https://pgc.edu/blog/coronavirus-prediction-dr-anthony-fauci/ (from https://pgc.edu/coronavirus-may-kill-100000-to-200000-people-dr-anthony-fauci/)
+07:13:48	Warning: 	Moved Permanently for https://pgc.edu/?p=32647
+07:13:48	Warning: 	File has moved from https://pgc.edu/?p=32647 to https://pgc.edu/lesco-jobs-2021-nts/
+07:13:48	Warning: 	Moved Permanently for https://pgc.edu/?p=13571
+07:13:48	Warning: 	File has moved from https://pgc.edu/?p=13571 to https://pgc.edu/b-com-subjects/
+07:14:04	Warning: 	Moved Permanently for https://pgc.edu/?p=59839
+07:14:04	Warning: 	File has moved from https://pgc.edu/?p=59839 to https://pgc.edu/intermediate-results-2022-punjab-colleges-secure-overall-1st-position-across-all-punjab-boards/
+07:14:12	Warning: 	Moved Permanently for https://pgc.edu/?p=63128
+07:14:12	Warning: 	File has moved from https://pgc.edu/?p=63128 to https://pgc.edu/english-notes-for-class-10-unlimited-free-access/
+07:14:12	Warning: 	Moved Permanently for https://pgc.edu/?p=57647
+07:14:12	Warning: 	File has moved from https://pgc.edu/?p=57647 to https://pgc.edu/floods-in-pakistan-2022/
+07:14:19	Warning: 	Moved Permanently for https://pgc.edu/?p=63164
+07:14:19	Warning: 	File has moved from https://pgc.edu/?p=63164 to https://pgc.edu/chemistry-notes-for-class-10-complete-guide-2023/
+07:14:19	Warning: 	Moved Permanently for https://pgc.edu/?p=63908
+07:14:19	Warning: 	File has moved from https://pgc.edu/?p=63908 to https://pgc.edu/10th-class-english-notes-from-video-lectures/
+07:14:26	Warning: 	Moved Permanently for https://pgc.edu/?p=63243
+07:14:26	Warning: 	File has moved from https://pgc.edu/?p=63243 to https://pgc.edu/get-free-access-to-matric-past-papers/
+07:14:33	Warning: 	Moved Permanently for https://pgc.edu/?p=64813
+07:14:33	Warning: 	File has moved from https://pgc.edu/?p=64813 to https://pgc.edu/develop-a-robust-foundation-for-chemistry-class-9/
+07:14:33	Warning: 	Moved Permanently for https://pgc.edu/?p=65594
+07:14:33	Warning: 	File has moved from https://pgc.edu/?p=65594 to https://pgc.edu/get-10-class-past-papers-on-your-smartphone/
+07:14:40	Warning: 	Moved Permanently for https://pgc.edu/?p=13677
+07:14:40	Warning: 	File has moved from https://pgc.edu/?p=13677 to https://pgc.edu/short-courses-after-ics/
+07:14:40	Warning: 	Moved Permanently for https://pgc.edu/?p=15163
+07:14:40	Warning: 	File has moved from https://pgc.edu/?p=15163 to https://pgc.edu/how-is-a-federal-loan-different-from-a-private-loan-for-an-education/
+07:14:47	Warning: 	Moved Permanently for https://pgc.edu/?p=15345
+07:14:47	Warning: 	File has moved from https://pgc.edu/?p=15345 to https://pgc.edu/what-is-formal-education/
+07:14:47	Warning: 	Moved Permanently for https://pgc.edu/?p=15342
+07:14:47	Warning: 	File has moved from https://pgc.edu/?p=15342 to https://pgc.edu/general-education/
+07:14:47	Warning: 	Moved Permanently for https://pgc.edu/?p=58475
+07:14:47	Warning: 	File has moved from https://pgc.edu/?p=58475 to https://pgc.edu/prep-by-pgc-ace-your-urdu-exam-with-the-best-urdu-notes-for-class-10/
+07:14:54	Warning: 	Moved Permanently for https://pgc.edu/?p=13679
+07:14:54	Warning: 	File has moved from https://pgc.edu/?p=13679 to https://pgc.edu/what-is-the-best-master-degree-to-get/
+07:14:54	Warning: 	Moved Permanently for https://pgc.edu/?p=13737
+07:14:54	Warning: 	File has moved from https://pgc.edu/?p=13737 to https://pgc.edu/education-complaint-cell-lahore/
+07:15:00	Warning: 	Moved Permanently for https://pgc.edu/?p=68846
+07:15:00	Warning: 	File has moved from https://pgc.edu/?p=68846 to https://pgc.edu/top-6-earning-techniques-for-students-in-digital-sphere/
+07:15:09	Error: 	"Not Found" (404) at link https://pgc.edu/campus/alipur/feed/ (from https://pgc.edu/campus/alipur/)
+07:15:09	Warning: 	Moved Permanently for https://pgc.edu/?p=653
+07:15:09	Warning: 	File has moved from https://pgc.edu/?p=653 to https://pgc.edu/campus/alipur/
+07:15:15	Warning: 	Moved Permanently for https://pgc.edu/?p=35358
+07:15:15	Warning: 	File has moved from https://pgc.edu/?p=35358 to https://pgc.edu/petroleum-engineering-scope-in-pakistan/
+07:15:34	Warning: 	Moved Permanently for https://pgc.edu/?p=4201
+07:15:34	Warning: 	File has moved from https://pgc.edu/?p=4201 to https://pgc.edu/news/annual-prize-distribution-by-pgc-faisalabad/
+07:15:41	Warning: 	Moved Permanently for https://pgc.edu/?p=14091
+07:15:41	Warning: 	File has moved from https://pgc.edu/?p=14091 to https://pgc.edu/minecraft-education-edition/
+07:15:50	Warning: 	Moved Permanently for https://pgc.edu/?p=14767
+07:15:50	Warning: 	File has moved from https://pgc.edu/?p=14767 to https://pgc.edu/what-education-is-needed-to-become-a-psychologist/
+07:15:58	Warning: 	Moved Permanently for https://pgc.edu/?p=14013
+07:15:58	Warning: 	File has moved from https://pgc.edu/?p=14013 to https://pgc.edu/higher-education/
+07:16:05	Warning: 	Moved Permanently for https://pgc.edu/?p=14063
+07:16:05	Warning: 	File has moved from https://pgc.edu/?p=14063 to https://pgc.edu/physical-education/
+07:16:13	Warning: 	Moved Permanently for https://pgc.edu/?p=9141
+07:16:13	Warning: 	File has moved from https://pgc.edu/?p=9141 to https://pgc.edu/fsc-admission/
+07:16:21	Warning: 	Moved Permanently for https://pgc.edu/?p=13576
+07:16:21	Warning: 	File has moved from https://pgc.edu/?p=13576 to https://pgc.edu/two-year-bachelor-degree-programs-in-pakistan/
+07:16:35	Warning: 	Moved Permanently for https://pgc.edu/?p=13560
+07:16:35	Warning: 	File has moved from https://pgc.edu/?p=13560 to https://pgc.edu/join-pak-navy/
+07:16:41	Warning: 	Moved Permanently for https://pgc.edu/?p=59638
+07:16:41	Warning: 	File has moved from https://pgc.edu/?p=59638 to https://pgc.edu/let-us-talk-about-a-better-pakistan-in-indus-conclave-2022/
+07:16:48	Warning: 	Moved Permanently for https://pgc.edu/?p=57211
+07:16:48	Warning: 	File has moved from https://pgc.edu/?p=57211 to https://pgc.edu/why-is-pgc-the-best-college-for-intermediate-in-commerce-icom/
+07:16:55	Warning: 	Moved Permanently for https://pgc.edu/?p=63868
+07:16:55	Warning: 	File has moved from https://pgc.edu/?p=63868 to https://pgc.edu/chemistry-notes-for-class-10-from-ch-9-to-ch-13-with-video-lectures/
+07:16:55	Warning: 	Moved Permanently for https://pgc.edu/?p=63341
+07:16:55	Warning: 	File has moved from https://pgc.edu/?p=63341 to https://pgc.edu/10th-class-physics-notes-chapter-1-chapter-5/
+07:16:55	Warning: 	Moved Permanently for https://pgc.edu/?p=66437
+07:16:55	Warning: 	File has moved from https://pgc.edu/?p=66437 to https://pgc.edu/pgc-initiates-pre-first-year-2023-intake/
+07:17:02	Warning: 	Moved Permanently for https://pgc.edu/?p=15161
+07:17:02	Warning: 	File has moved from https://pgc.edu/?p=15161 to https://pgc.edu/montessori-education/
+07:17:10	Warning: 	Moved Permanently for https://pgc.edu/?p=58555
+07:17:10	Warning: 	File has moved from https://pgc.edu/?p=58555 to https://pgc.edu/what-can-you-do-with-an-adp-accounting-and-finance/
+07:17:19	Warning: 	Moved Permanently for https://pgc.edu/?p=13740
+07:17:19	Warning: 	File has moved from https://pgc.edu/?p=13740 to https://pgc.edu/education-during-ancient-times/
+07:17:25	Warning: 	Moved Permanently for https://pgc.edu/?p=67842
+07:17:25	Warning: 	File has moved from https://pgc.edu/?p=67842 to https://pgc.edu/the-optimal-use-of-chatgpt-for-students/
+07:17:32	Error: 	"Not Found" (404) at link https://pgc.edu/campus/shorkot/feed/ (from https://pgc.edu/campus/shorkot/)
+07:17:32	Warning: 	Moved Permanently for https://pgc.edu/?p=633
+07:17:32	Warning: 	File has moved from https://pgc.edu/?p=633 to https://pgc.edu/campus/shorkot/
+07:17:42	Warning: 	Moved Permanently for https://pgc.edu/?p=35642
+07:17:42	Warning: 	File has moved from https://pgc.edu/?p=35642 to https://pgc.edu/law-of-diminishing-returns/
+07:17:49	Warning: 	Moved Permanently for https://pgc.edu/?p=4197
+07:17:49	Warning: 	File has moved from https://pgc.edu/?p=4197 to https://pgc.edu/news/sports-gala-by-pgc-rawalpindi-islamabad/
+07:17:55	Warning: 	Moved Permanently for https://pgc.edu/?p=14095
+07:17:55	Warning: 	File has moved from https://pgc.edu/?p=14095 to https://pgc.edu/what-education-is-needed-to-become-a-registered-nurse/
+07:17:55	Warning: 	Moved Permanently for https://pgc.edu/?p=14765
+07:17:55	Warning: 	File has moved from https://pgc.edu/?p=14765 to https://pgc.edu/what-does-education-mean-to-you/
+07:18:02	Warning: 	Moved Permanently for https://pgc.edu/?p=14043
+07:18:02	Warning: 	File has moved from https://pgc.edu/?p=14043 to https://pgc.edu/how-to-list-education-on-resume/
+07:18:10	Warning: 	Moved Permanently for https://pgc.edu/?p=14061
+07:18:10	Warning: 	File has moved from https://pgc.edu/?p=14061 to https://pgc.edu/what-is-the-best-order-to-look-for-funding-sources/
+07:18:10	Warning: 	Moved Permanently for https://pgc.edu/?p=9144
+07:18:10	Warning: 	File has moved from https://pgc.edu/?p=9144 to https://pgc.edu/smog-free-pakistan/
+07:18:16	Warning: 	Moved Permanently for https://pgc.edu/?p=9262
+07:18:16	Warning: 	File has moved from https://pgc.edu/?p=9262 to https://pgc.edu/e-learning-courses-the-launch-of-el-by-pgc/
+07:18:16	Warning: 	Moved Permanently for https://pgc.edu/blog/e-learning-courses/
+07:18:16	Warning: 	File has moved from https://pgc.edu/blog/e-learning-courses/ to https://pgc.edu/e-learning-courses-the-launch-of-el-by-pgc/
+07:18:26	Warning: 	Moved Permanently for https://pgc.edu/?p=13556
+07:18:26	Warning: 	File has moved from https://pgc.edu/?p=13556 to https://pgc.edu/evaluation-in-education/
+07:18:26	Warning: 	Moved Permanently for https://pgc.edu/?p=13558
+07:18:26	Warning: 	File has moved from https://pgc.edu/?p=13558 to https://pgc.edu/bise-lahore/
+07:18:26	Warning: 	Moved Permanently for https://pgc.edu/?p=59507
+07:18:26	Warning: 	File has moved from https://pgc.edu/?p=59507 to https://pgc.edu/world-mental-health-day-2022/
+07:18:34	Warning: 	Moved Permanently for https://pgc.edu/?p=56914
+07:18:34	Warning: 	File has moved from https://pgc.edu/?p=56914 to https://pgc.edu/why-is-pgc-the-best-college-for-intermediate-in-computer-science-ics/
+07:18:42	Warning: 	Moved Permanently for https://pgc.edu/?p=66720
+07:18:42	Warning: 	File has moved from https://pgc.edu/?p=66720 to https://pgc.edu/is-i-com-for-you-or-not-pre-first-year-2023-will-help-you-decide/
+07:18:49	Warning: 	Moved Permanently for https://pgc.edu/?p=15147
+07:18:49	Warning: 	File has moved from https://pgc.edu/?p=15147 to https://pgc.edu/socioeconomic-status-affect-education/
+07:19:03	Warning: 	Moved Permanently for https://pgc.edu/?p=58747
+07:19:03	Warning: 	File has moved from https://pgc.edu/?p=58747 to https://pgc.edu/punjab-colleges-fsc-pre-medical-admissions-2022-last-date-to-apply/
+07:19:10	Warning: 	Moved Permanently for https://pgc.edu/?p=13745
+07:19:10	Warning: 	File has moved from https://pgc.edu/?p=13745 to https://pgc.edu/educational-psychology/
+07:19:16	Warning: 	Moved Permanently for https://pgc.edu/?p=67111
+07:19:16	Warning: 	File has moved from https://pgc.edu/?p=67111 to https://pgc.edu/the-free-pre-first-year-2023-start-intermediate-today/
+07:19:16	Error: 	"Not Found" (404) at link https://pgc.edu/campus/phalia/feed/ (from https://pgc.edu/campus/phalia/)
+07:19:16	Warning: 	Moved Permanently for https://pgc.edu/?p=613
+07:19:16	Warning: 	File has moved from https://pgc.edu/?p=613 to https://pgc.edu/campus/phalia/
+07:19:26	Error: 	"Not Found" (404) at link https://pgc.edu/campus/shujabad/feed/ (from https://pgc.edu/campus/shujabad/)
+07:19:26	Warning: 	Moved Permanently for https://pgc.edu/?p=634
+07:19:26	Warning: 	File has moved from https://pgc.edu/?p=634 to https://pgc.edu/campus/shujabad/
+07:19:26	Warning: 	Moved Permanently for https://pgc.edu/?p=35640
+07:19:26	Warning: 	File has moved from https://pgc.edu/?p=35640 to https://pgc.edu/software-engineering/
+07:19:33	Warning: 	Moved Permanently for https://pgc.edu/?p=4194
+07:19:33	Warning: 	File has moved from https://pgc.edu/?p=4194 to https://pgc.edu/news/pgc-gujranwala-girls-organized-sports-gala/
+07:19:39	Warning: 	Moved Permanently for https://pgc.edu/?p=15131
+07:19:39	Warning: 	File has moved from https://pgc.edu/?p=15131 to https://pgc.edu/liberal-education/
+07:19:39	Warning: 	Moved Permanently for https://pgc.edu/?p=14053
+07:19:39	Warning: 	File has moved from https://pgc.edu/?p=14053 to https://pgc.edu/primary-supporter-of-hunter-education/
+07:19:47	Warning: 	Moved Permanently for https://pgc.edu/?p=9149
+07:19:47	Warning: 	File has moved from https://pgc.edu/?p=9149 to https://pgc.edu/intermediate-results-part-1-are-announced/
+07:19:47	Warning: 	Moved Permanently for https://pgc.edu/our-blog/intermediate-results-part-1-are-announced/
+07:19:47	Warning: 	File has moved from https://pgc.edu/our-blog/intermediate-results-part-1-are-announced/ to https://pgc.edu/intermediate-results-part-1-are-announced/
+07:19:56	Warning: 	Moved Permanently for https://pgc.edu/?p=9259
+07:19:56	Warning: 	File has moved from https://pgc.edu/?p=9259 to https://pgc.edu/importance-of-education-in-life/
+07:19:56	Error: 	"Not Found" (404) at link https://pgc.edu/blogs/education-system-pakistan (from https://pgc.edu/importance-of-education-in-life/)
+07:20:04	Warning: 	Moved Permanently for https://pgc.edu/?p=59319
+07:20:04	Warning: 	File has moved from https://pgc.edu/?p=59319 to https://pgc.edu/computer-science-vs-computer-engineering-how-the-jobs-differ/
+07:20:11	Warning: 	Moved Permanently for https://pgc.edu/?p=56769
+07:20:11	Warning: 	File has moved from https://pgc.edu/?p=56769 to https://pgc.edu/why-should-you-choose-pgc-for-fsc-pre-medical/
+07:20:18	Warning: 	Moved Permanently for https://pgc.edu/?p=66843
+07:20:18	Warning: 	File has moved from https://pgc.edu/?p=66843 to https://pgc.edu/enrol-in-pre-first-year-and-start-ics-today/
+07:20:18	Warning: 	Moved Permanently for https://pgc.edu/?p=15133
+07:20:18	Warning: 	File has moved from https://pgc.edu/?p=15133 to https://pgc.edu/art-education/
+07:20:18	Warning: 	Moved Permanently for https://pgc.edu/?p=15135
+07:20:18	Warning: 	File has moved from https://pgc.edu/?p=15135 to https://pgc.edu/technology-important-in-education/
+07:20:18	Warning: 	Moved Permanently for https://pgc.edu/?p=58757
+07:20:18	Warning: 	File has moved from https://pgc.edu/?p=58757 to https://pgc.edu/pgc-fsc-pre-engineering-admissions-2022-last-date-to-apply/
+07:20:18	Warning: 	Moved Permanently for https://pgc.edu/?p=13750
+07:20:18	Warning: 	File has moved from https://pgc.edu/?p=13750 to https://pgc.edu/educational-resources/
+07:20:26	Error: 	"Not Found" (404) at link https://pgc.edu/campus/lahore-johar-campus/feed/ (from https://pgc.edu/campus/lahore-johar-campus/)
+07:20:26	Warning: 	Moved Permanently for https://pgc.edu/?p=593
+07:20:26	Warning: 	File has moved from https://pgc.edu/?p=593 to https://pgc.edu/campus/lahore-johar-campus/
+07:20:38	Error: 	"Not Found" (404) at link https://pgc.edu/campus/pind-dadan-khan/feed/ (from https://pgc.edu/campus/pind-dadan-khan/)
+07:20:38	Warning: 	Moved Permanently for https://pgc.edu/?p=614
+07:20:38	Warning: 	File has moved from https://pgc.edu/?p=614 to https://pgc.edu/campus/pind-dadan-khan/
+07:20:38	Warning: 	Moved Permanently for https://pgc.edu/?p=35826
+07:20:38	Warning: 	File has moved from https://pgc.edu/?p=35826 to https://pgc.edu/bs-physics/
+07:20:46	Warning: 	Moved Permanently for https://pgc.edu/?p=4179
+07:20:46	Warning: 	File has moved from https://pgc.edu/?p=4179 to https://pgc.edu/news/mehfil-e-naat-by-pgc-faisalabad/
+07:20:52	Warning: 	Moved Permanently for https://pgc.edu/?p=14015
+07:20:52	Warning: 	File has moved from https://pgc.edu/?p=14015 to https://pgc.edu/what-is-stem-education/
+07:21:00	Warning: 	Moved Permanently for https://pgc.edu/?p=9152
+07:21:00	Warning: 	File has moved from https://pgc.edu/?p=9152 to https://pgc.edu/types-of-scholarships-in-pakistan/
+07:21:07	Warning: 	Moved Permanently for https://pgc.edu/?p=9256
+07:21:07	Warning: 	File has moved from https://pgc.edu/?p=9256 to https://pgc.edu/best-study-strategies-to-boast-learning/
+07:21:07	Warning: 	Moved Permanently for https://pgc.edu/blog/importance-of-education-in-life/
+07:21:07	Warning: 	File has moved from https://pgc.edu/blog/importance-of-education-in-life/ to https://pgc.edu/importance-of-education-in-life/
+07:21:07	Warning: 	Moved Permanently for https://pgc.edu/blog/best-study-strategies/
+07:21:07	Warning: 	File has moved from https://pgc.edu/blog/best-study-strategies/ to https://pgc.edu/best-study-strategies/
+07:21:16	Warning: 	Moved Permanently for https://pgc.edu/?p=58987
+07:21:16	Warning: 	File has moved from https://pgc.edu/?p=58987 to https://pgc.edu/why-go-for-a-2-year-business-administration-program/
+07:21:16	Warning: 	Moved Permanently for https://pgc.edu/?p=54320
+07:21:16	Warning: 	File has moved from https://pgc.edu/?p=54320 to https://pgc.edu/free-access-to-9th-10th-class-solved-mcqs-with-prep-by-pgc/
+07:21:32	Warning: 	Moved Permanently for https://pgc.edu/?p=13753
+07:21:32	Warning: 	File has moved from https://pgc.edu/?p=13753 to https://pgc.edu/how-long-does-it-take-to-get-a-bachelors-degree/
+07:21:38	Error: 	"Not Found" (404) at link https://pgc.edu/campus/kamoke/feed/ (from https://pgc.edu/campus/kamoke/)
+07:21:38	Warning: 	Moved Permanently for https://pgc.edu/?p=573
+07:21:38	Warning: 	File has moved from https://pgc.edu/?p=573 to https://pgc.edu/campus/kamoke/
+07:21:50	Error: 	"Not Found" (404) at link https://pgc.edu/campus/lahore-shalamar-campus/feed/ (from https://pgc.edu/campus/lahore-shalamar-campus/)
+07:21:50	Warning: 	Moved Permanently for https://pgc.edu/?p=594
+07:21:50	Warning: 	File has moved from https://pgc.edu/?p=594 to https://pgc.edu/campus/lahore-shalamar-campus/
+07:21:50	Warning: 	Moved Permanently for https://pgc.edu/?p=35974
+07:21:50	Warning: 	File has moved from https://pgc.edu/?p=35974 to https://pgc.edu/python-and-software-engineering-scope/
+07:22:04	Warning: 	Moved Permanently for https://pgc.edu/?p=4176
+07:22:04	Warning: 	File has moved from https://pgc.edu/?p=4176 to https://pgc.edu/news/bise-lahore-sports-trophy/
+07:22:13	Warning: 	Moved Permanently for https://pgc.edu/?p=14051
+07:22:13	Warning: 	File has moved from https://pgc.edu/?p=14051 to https://pgc.edu/special-education/
+07:22:21	Warning: 	Moved Permanently for https://pgc.edu/?p=9155
+07:22:21	Warning: 	File has moved from https://pgc.edu/?p=9155 to https://pgc.edu/mba-degree-program-in-pakistan/
+07:22:37	Warning: 	Moved Permanently for https://pgc.edu/?p=9253
+07:22:37	Warning: 	File has moved from https://pgc.edu/?p=9253 to https://pgc.edu/intermediate-board-result/
+07:22:37	Error: 	"Not Found" (404) at link https://pgc.edu/blogs/inter-top-position-holders-2017 (from https://pgc.edu/intermediate-board-result/)
+07:22:54	Warning: 	Moved Permanently for https://pgc.edu/?p=39766
+07:22:54	Warning: 	File has moved from https://pgc.edu/?p=39766 to https://pgc.edu/prep-by-pgc-best-apps-for-matric-preparation/
+07:23:16	Warning: 	Moved Permanently for https://pgc.edu/?p=48059
+07:23:16	Warning: 	File has moved from https://pgc.edu/?p=48059 to https://pgc.edu/how-can-students-benefit-from-career-counselling/
+07:23:24	Warning: 	Moved Permanently for https://pgc.edu/?p=13761
+07:23:24	Warning: 	File has moved from https://pgc.edu/?p=13761 to https://pgc.edu/how-long-is-a-masters-degree/
+07:23:32	Error: 	"Not Found" (404) at link https://pgc.edu/campus/fateh-jang/feed/ (from https://pgc.edu/campus/fateh-jang/)
+07:23:32	Warning: 	Moved Permanently for https://pgc.edu/?p=553
+07:23:32	Warning: 	File has moved from https://pgc.edu/?p=553 to https://pgc.edu/campus/fateh-jang/
+07:23:37	Error: 	"Not Found" (404) at link https://pgc.edu/campus/kasur/feed/ (from https://pgc.edu/campus/kasur/)
+07:23:37	Warning: 	Moved Permanently for https://pgc.edu/?p=574
+07:23:37	Warning: 	File has moved from https://pgc.edu/?p=574 to https://pgc.edu/campus/kasur/
+07:23:37	Warning: 	Moved Permanently for https://pgc.edu/?p=36446
+07:23:37	Warning: 	File has moved from https://pgc.edu/?p=36446 to https://pgc.edu/your-career-as-a-data-scientist-in-pakistan/
+07:24:35	Warning: 	Moved Permanently for https://pgc.edu/?p=4173
+07:24:35	Warning: 	File has moved from https://pgc.edu/?p=4173 to https://pgc.edu/news/mehfil-e-mushaira-by-pgc-rawalpindi-islamabad/
+07:24:41	Warning: 	Moved Permanently for https://pgc.edu/?p=14055
+07:24:41	Warning: 	File has moved from https://pgc.edu/?p=14055 to https://pgc.edu/critical-race-theory-in-education/
+07:24:51	Warning: 	Moved Permanently for https://pgc.edu/?p=9158
+07:24:51	Warning: 	File has moved from https://pgc.edu/?p=9158 to https://pgc.edu/best-colleges-in-pakistan/
+07:25:01	Warning: 	Moved Permanently for https://pgc.edu/?p=8827
+07:25:01	Warning: 	File has moved from https://pgc.edu/?p=8827 to https://pgc.edu/best-study-strategies/
+07:25:01	Warning: 	Moved Permanently for https://pgc.edu/?p=9249
+07:25:01	Warning: 	File has moved from https://pgc.edu/?p=9249 to https://pgc.edu/pgc-clinches-148-top-positions-in-all-intermediate-boards-17/
+07:25:08	Warning: 	Moved Permanently for https://pgc.edu/?p=21142
+07:25:08	Warning: 	File has moved from https://pgc.edu/?p=21142 to https://pgc.edu/why-education-should-be-free/
+07:25:08	Warning: 	Moved Permanently for https://pgc.edu/?p=38139
+07:25:08	Warning: 	File has moved from https://pgc.edu/?p=38139 to https://pgc.edu/entrepreneurship/
+07:25:15	Warning: 	Moved Permanently for https://pgc.edu/?p=41199
+07:25:15	Warning: 	File has moved from https://pgc.edu/?p=41199 to https://pgc.edu/how-to-excel-in-10th-class-maths-with-prep-by-pgc/
+07:25:15	Warning: 	Moved Permanently for https://pgc.edu/?p=37690
+07:25:15	Warning: 	File has moved from https://pgc.edu/?p=37690 to https://pgc.edu/career-goals/
+07:25:34	Warning: 	Moved Permanently for https://pgc.edu/?p=13765
+07:25:34	Warning: 	File has moved from https://pgc.edu/?p=13765 to https://pgc.edu/how-mindfulness-during-class-can-help-students-and-teachers/
+07:25:45	Error: 	"Not Found" (404) at link https://pgc.edu/campus/fatehpur/feed/ (from https://pgc.edu/campus/fatehpur/)
+07:25:45	Warning: 	Moved Permanently for https://pgc.edu/?p=554
+07:25:45	Warning: 	File has moved from https://pgc.edu/?p=554 to https://pgc.edu/campus/fatehpur/
+07:26:38	Warning: 	Moved Permanently for https://pgc.edu/?p=36499
+07:26:38	Warning: 	File has moved from https://pgc.edu/?p=36499 to https://pgc.edu/msc-physics-in-pakistan/
+07:26:48	Warning: 	Moved Permanently for https://pgc.edu/?p=4170
+07:26:48	Warning: 	File has moved from https://pgc.edu/?p=4170 to https://pgc.edu/news/brain-of-bahawalpur/
+07:26:55	Warning: 	Moved Permanently for https://pgc.edu/?p=14045
+07:26:55	Warning: 	File has moved from https://pgc.edu/?p=14045 to https://pgc.edu/what-does-the-department-of-education-do/
+07:27:11	Warning: 	Moved Permanently for https://pgc.edu/?p=9162
+07:27:11	Warning: 	File has moved from https://pgc.edu/?p=9162 to https://pgc.edu/top-10-benefits-of-a-college-degree/
+07:27:18	Warning: 	Moved Permanently for https://pgc.edu/?p=9247
+07:27:18	Warning: 	File has moved from https://pgc.edu/?p=9247 to https://pgc.edu/benefits-of-a-4-year-bachelor-degree/
+07:27:18	Warning: 	Moved Permanently for https://pgc.edu/blog/4-year-bachelor-degree/
+07:27:18	Warning: 	File has moved from https://pgc.edu/blog/4-year-bachelor-degree/ to https://pgc.edu/4-year-bachelor-degree/
+07:27:25	Warning: 	Moved Permanently for https://pgc.edu/?p=38516
+07:27:25	Warning: 	File has moved from https://pgc.edu/?p=38516 to https://pgc.edu/mass-communication-scope/
+07:27:32	Warning: 	Moved Permanently for https://pgc.edu/?p=37693
+07:27:32	Warning: 	File has moved from https://pgc.edu/?p=37693 to https://pgc.edu/co-education/
+07:27:40	Warning: 	Moved Permanently for https://pgc.edu/?p=38077
+07:27:40	Warning: 	File has moved from https://pgc.edu/?p=38077 to https://pgc.edu/pgc-music-festival-its-more-than-just-music/
+07:28:48	Warning: 	Moved Permanently for https://pgc.edu/?p=13769
+07:28:48	Warning: 	File has moved from https://pgc.edu/?p=13769 to https://pgc.edu/types-of-education/
+07:28:55	Error: 	"Not Found" (404) at link https://pgc.edu/best-freelancing-skills-in-2022-high-school-students (from https://pgc.edu/best-freelancing-skills-to-have-as-high-school-student/)
+07:28:55	Warning: 	Moved Permanently for https://pgc.edu/?p=38397
+07:28:55	Warning: 	File has moved from https://pgc.edu/?p=38397 to https://pgc.edu/best-freelancing-skills-to-have-as-high-school-student/
+07:29:15	Warning: 	Moved Permanently for https://pgc.edu/?p=36501
+07:29:15	Warning: 	File has moved from https://pgc.edu/?p=36501 to https://pgc.edu/css-exam/
+07:29:22	Warning: 	Moved Permanently for https://pgc.edu/?p=4167
+07:29:22	Warning: 	File has moved from https://pgc.edu/?p=4167 to https://pgc.edu/news/ptm-at-pgc-mianwali/
+07:29:27	Warning: 	Moved Permanently for https://pgc.edu/?p=14047
+07:29:27	Warning: 	File has moved from https://pgc.edu/?p=14047 to https://pgc.edu/what-is-windows-10-education/
+07:29:36	Warning: 	Moved Permanently for https://pgc.edu/?p=13988
+07:29:36	Warning: 	File has moved from https://pgc.edu/?p=13988 to https://pgc.edu/masters-in-healthcare-administration/
+07:29:36	Warning: 	Moved Permanently for https://pgc.edu/?p=9165
+07:29:36	Warning: 	File has moved from https://pgc.edu/?p=9165 to https://pgc.edu/college-readiness/
+07:29:50	Warning: 	Moved Permanently for https://pgc.edu/?p=9240
+07:29:50	Warning: 	File has moved from https://pgc.edu/?p=9240 to https://pgc.edu/how-to-start-college-life/
+07:29:50	Warning: 	Moved Permanently for https://pgc.edu/blog/how-to-start-college-life/
+07:29:50	Warning: 	File has moved from https://pgc.edu/blog/how-to-start-college-life/ to https://pgc.edu/how-to-start-college-life/
+07:29:57	Warning: 	Moved Permanently for https://pgc.edu/?p=38518
+07:29:57	Warning: 	File has moved from https://pgc.edu/?p=38518 to https://pgc.edu/top-10-tips-for-exam-preparations/
+07:29:57	Warning: 	Moved Permanently for https://pgc.edu/?p=37695
+07:29:57	Warning: 	File has moved from https://pgc.edu/?p=37695 to https://pgc.edu/education-role-in-nation-building/
+07:30:03	Warning: 	Moved Permanently for https://pgc.edu/?p=38143
+07:30:03	Warning: 	File has moved from https://pgc.edu/?p=38143 to https://pgc.edu/importance-of-healthy-food/
+07:30:11	Warning: 	Moved Permanently for https://pgc.edu/?p=13772
+07:30:11	Warning: 	File has moved from https://pgc.edu/?p=13772 to https://pgc.edu/what-are-the-five-approaches-to-the-study-of-educational-psychology/
+07:30:18	Warning: 	Moved Permanently for https://pgc.edu/?p=38315
+07:30:18	Warning: 	File has moved from https://pgc.edu/?p=38315 to https://pgc.edu/pgc-student-survey-a-chance-to-win-improve/
+07:31:07	Warning: 	Moved Permanently for https://pgc.edu/?p=37697
+07:31:07	Warning: 	File has moved from https://pgc.edu/?p=37697 to https://pgc.edu/child-labor/
+07:31:07	Warning: 	Moved Permanently for https://pgc.edu/?p=36733
+07:31:07	Warning: 	File has moved from https://pgc.edu/?p=36733 to https://pgc.edu/llb-scope-in-pakistan/
+07:31:19	Warning: 	Moved Permanently for https://pgc.edu/?p=4163
+07:31:19	Warning: 	File has moved from https://pgc.edu/?p=4163 to https://pgc.edu/news/sightseeing-tour-by-pgc-lahore/
+07:31:27	Warning: 	Moved Permanently for https://pgc.edu/?p=14049
+07:31:27	Warning: 	File has moved from https://pgc.edu/?p=14049 to https://pgc.edu/what-is-the-purpose-of-the-community-safety-education-act/
+07:31:34	Warning: 	Moved Permanently for https://pgc.edu/?p=9147
+07:31:34	Warning: 	File has moved from https://pgc.edu/?p=9147 to https://pgc.edu/intermediate-result/
+07:31:42	Warning: 	Moved Permanently for https://pgc.edu/?p=8828
+07:31:42	Warning: 	File has moved from https://pgc.edu/?p=8828 to https://pgc.edu/4-year-bachelor-degree/
+07:31:42	Warning: 	Moved Permanently for https://pgc.edu/?p=9230
+07:31:42	Warning: 	File has moved from https://pgc.edu/?p=9230 to https://pgc.edu/best-engineering-universities-in-pakistan/
+07:31:42	Warning: 	Moved Permanently for https://pgc.edu/blog/best-engineering-universities-in-pakistan/
+07:31:42	Warning: 	File has moved from https://pgc.edu/blog/best-engineering-universities-in-pakistan/ to https://pgc.edu/best-engineering-universities-in-pakistan/best-engineering-universities-in-pakistan/
+07:31:49	Warning: 	Moved Permanently for https://pgc.edu/?p=37686
+07:31:49	Warning: 	File has moved from https://pgc.edu/?p=37686 to https://pgc.edu/possessive/
+07:31:55	Warning: 	Moved Permanently for https://pgc.edu/?p=38136
+07:31:55	Warning: 	File has moved from https://pgc.edu/?p=38136 to https://pgc.edu/virtual-reality/
+07:31:55	Warning: 	Moved Permanently for https://pgc.edu/?p=13777
+07:31:55	Warning: 	File has moved from https://pgc.edu/?p=13777 to https://pgc.edu/what-are-the-subjects-of-bs-english/
+07:32:02	Warning: 	Moved Permanently for https://pgc.edu/?p=36939
+07:32:02	Warning: 	File has moved from https://pgc.edu/?p=36939 to https://pgc.edu/free-microsoft-certification-at-punjab-colleges/
+07:33:00	Warning: 	Moved Permanently for https://pgc.edu/?p=4160
+07:33:00	Warning: 	File has moved from https://pgc.edu/?p=4160 to https://pgc.edu/news/meet-and-compete-by-pgc-bahawalpur/
+07:33:08	Warning: 	Moved Permanently for https://pgc.edu/?p=14017
+07:33:08	Warning: 	File has moved from https://pgc.edu/?p=14017 to https://pgc.edu/scaffolding-in-education/
+07:33:15	Warning: 	Moved Permanently for https://pgc.edu/?p=9171
+07:33:15	Warning: 	File has moved from https://pgc.edu/?p=9171 to https://pgc.edu/universal-primary-education/
+07:33:30	Warning: 	Moved Permanently for https://pgc.edu/?p=9228
+07:33:30	Warning: 	File has moved from https://pgc.edu/?p=9228 to https://pgc.edu/teaching-skills/
+07:33:37	Warning: 	Moved Permanently for https://pgc.edu/?p=37688
+07:33:37	Warning: 	File has moved from https://pgc.edu/?p=37688 to https://pgc.edu/instead/
+07:33:43	Warning: 	Moved Permanently for https://pgc.edu/?p=13780
+07:33:43	Warning: 	File has moved from https://pgc.edu/?p=13780 to https://pgc.edu/what-do-educational-psychologists-do/
+07:33:50	Warning: 	Moved Permanently for https://pgc.edu/?p=36987
+07:33:50	Warning: 	File has moved from https://pgc.edu/?p=36987 to https://pgc.edu/life-at-punjab-colleges/
+07:34:36	Warning: 	Moved Permanently for https://pgc.edu/?p=4105
+07:34:36	Warning: 	File has moved from https://pgc.edu/?p=4105 to https://pgc.edu/news/bahuddin-zakariya-university-announced-m-com-ii-result-2018/
+07:34:43	Warning: 	Moved Permanently for https://pgc.edu/?p=13969
+07:34:43	Warning: 	File has moved from https://pgc.edu/?p=13969 to https://pgc.edu/online-accounting-degree/
+07:34:50	Warning: 	Moved Permanently for https://pgc.edu/?p=9175
+07:34:50	Warning: 	File has moved from https://pgc.edu/?p=9175 to https://pgc.edu/online-education/
+07:34:50	Warning: 	Moved Permanently for https://pgc.edu/blog/online-education/
+07:34:50	Warning: 	File has moved from https://pgc.edu/blog/online-education/ to https://pgc.edu/online-education/
+07:34:58	Warning: 	Moved Permanently for https://pgc.edu/?p=9231
+07:34:58	Warning: 	File has moved from https://pgc.edu/?p=9231 to https://pgc.edu/best-engineering-universities-in-pakistan/best-engineering-universities-in-pakistan/
+07:34:58	Warning: 	Moved Permanently for https://pgc.edu/?p=9225
+07:34:58	Warning: 	File has moved from https://pgc.edu/?p=9225 to https://pgc.edu/understanding-educational-psychology/
+07:34:58	Warning: 	Moved Permanently for https://pgc.edu/blog/educational-psychology/
+07:34:58	Warning: 	File has moved from https://pgc.edu/blog/educational-psychology/ to https://pgc.edu/educational-psychology/
+07:35:05	Warning: 	Moved Permanently for https://pgc.edu/?p=37200
+07:35:05	Warning: 	File has moved from https://pgc.edu/?p=37200 to https://pgc.edu/import/
+07:35:05	Warning: 	Moved Permanently for https://pgc.edu/?p=13783
+07:35:05	Warning: 	File has moved from https://pgc.edu/?p=13783 to https://pgc.edu/what-is-the-average-student-loan-debt-for-a-masters-degree/
+07:35:11	Warning: 	Moved Permanently for https://pgc.edu/?p=4098
+07:35:11	Warning: 	File has moved from https://pgc.edu/?p=4098 to https://pgc.edu/news/music-concert-by-pgc-rawalpindi-islamabad/
+07:35:17	Warning: 	Moved Permanently for https://pgc.edu/?p=13971
+07:35:17	Warning: 	File has moved from https://pgc.edu/?p=13971 to https://pgc.edu/online-law-degree/
+07:35:24	Warning: 	Moved Permanently for https://pgc.edu/?p=9178
+07:35:24	Warning: 	File has moved from https://pgc.edu/?p=9178 to https://pgc.edu/board-of-intermediate-result/
+07:35:30	Warning: 	Moved Permanently for https://pgc.edu/?p=9222
+07:35:30	Warning: 	File has moved from https://pgc.edu/?p=9222 to https://pgc.edu/important-announcement-for-intermediate-students/
+07:35:40	Warning: 	Moved Permanently for https://pgc.edu/?p=13786
+07:35:40	Warning: 	File has moved from https://pgc.edu/?p=13786 to https://pgc.edu/what-is-the-easiest-masters-degree/
+07:35:46	Warning: 	Moved Permanently for https://pgc.edu/?p=4095
+07:35:46	Warning: 	File has moved from https://pgc.edu/?p=4095 to https://pgc.edu/news/pgc-lahore-won-winning-team-trophy-at-the-la-arena-singing-competition/
+07:35:52	Warning: 	Moved Permanently for https://pgc.edu/?p=13975
+07:35:52	Warning: 	File has moved from https://pgc.edu/?p=13975 to https://pgc.edu/doctor-of-business-administration/
+07:35:59	Warning: 	Moved Permanently for https://pgc.edu/?p=9181
+07:35:59	Warning: 	File has moved from https://pgc.edu/?p=9181 to https://pgc.edu/communicate-effectively/
+07:36:07	Warning: 	Moved Permanently for https://pgc.edu/?p=9219
+07:36:07	Warning: 	File has moved from https://pgc.edu/?p=9219 to https://pgc.edu/time-to-measure-your-success-with-step/
+07:36:15	Warning: 	Moved Permanently for https://pgc.edu/?p=13811
+07:36:15	Warning: 	File has moved from https://pgc.edu/?p=13811 to https://pgc.edu/which-subject-is-best-for-bs/
+07:36:21	Warning: 	Moved Permanently for https://pgc.edu/?p=4091
+07:36:21	Warning: 	File has moved from https://pgc.edu/?p=4091 to https://pgc.edu/news/class-decor-competition-by-pgc-rawalakot/
+07:36:27	Warning: 	Moved Permanently for https://pgc.edu/?p=13956
+07:36:27	Warning: 	File has moved from https://pgc.edu/?p=13956 to https://pgc.edu/nursing-degree-online/
+07:36:35	Warning: 	Moved Permanently for https://pgc.edu/?p=9184
+07:36:35	Warning: 	File has moved from https://pgc.edu/?p=9184 to https://pgc.edu/issues-in-education/
+07:36:35	Warning: 	Moved Permanently for https://pgc.edu/blog/issues-in-education/
+07:36:35	Warning: 	File has moved from https://pgc.edu/blog/issues-in-education/ to https://pgc.edu/issues-in-education/
+07:36:42	Warning: 	Moved Permanently for https://pgc.edu/?p=9216
+07:36:42	Warning: 	File has moved from https://pgc.edu/?p=9216 to https://pgc.edu/admission-in-intermediate-college-courses-and-other-major-decisions/
+07:36:49	Warning: 	Moved Permanently for https://pgc.edu/blog/admission-in-intermediate-college/
+07:36:49	Warning: 	File has moved from https://pgc.edu/blog/admission-in-intermediate-college/ to https://pgc.edu/admission-in-intermediate-college-courses-and-other-major-decisions/
+07:36:55	Warning: 	Moved Permanently for https://pgc.edu/?p=13808
+07:36:55	Warning: 	File has moved from https://pgc.edu/?p=13808 to https://pgc.edu/which-is-better-ba-or-bs/
+07:37:01	Warning: 	Moved Permanently for https://pgc.edu/?p=4088
+07:37:01	Warning: 	File has moved from https://pgc.edu/?p=4088 to https://pgc.edu/news/farogh-e-urdu-by-pgc-gujrat-girls/
+07:37:07	Warning: 	Moved Permanently for https://pgc.edu/?p=13922
+07:37:07	Warning: 	File has moved from https://pgc.edu/?p=13922 to https://pgc.edu/online-computer-science-degree/
+07:37:13	Warning: 	Moved Permanently for https://pgc.edu/?p=9188
+07:37:13	Warning: 	File has moved from https://pgc.edu/?p=9188 to https://pgc.edu/trends-in-education/
+07:37:20	Warning: 	Moved Permanently for https://pgc.edu/?p=275
+07:37:20	Warning: 	File has moved from https://pgc.edu/?p=275 to https://pgc.edu/growth-over-years/
+07:37:20	Warning: 	Moved Permanently for https://pgc.edu/?p=9212
+07:37:20	Warning: 	File has moved from https://pgc.edu/?p=9212 to https://pgc.edu/pgc-reshaping-education-system-in-pakistan/
+07:37:26	Warning: 	Moved Permanently for https://pgc.edu/?p=13802
+07:37:26	Warning: 	File has moved from https://pgc.edu/?p=13802 to https://pgc.edu/which-field-is-best-in-pakistan/
+07:37:34	Warning: 	Moved Permanently for https://pgc.edu/?p=4083
+07:37:34	Warning: 	File has moved from https://pgc.edu/?p=4083 to https://pgc.edu/news/celebration-dinner-by-pgc-lahore/
+07:37:41	Warning: 	Moved Permanently for https://pgc.edu/?p=13901
+07:37:41	Warning: 	File has moved from https://pgc.edu/?p=13901 to https://pgc.edu/accelerated-learning-program/
+07:37:47	Warning: 	Moved Permanently for https://pgc.edu/?p=9191
+07:37:47	Warning: 	File has moved from https://pgc.edu/?p=9191 to https://pgc.edu/challenges-in-education/
+07:37:47	Warning: 	Moved Permanently for https://pgc.edu/blog/challenges-in-education/
+07:37:47	Warning: 	File has moved from https://pgc.edu/blog/challenges-in-education/ to https://pgc.edu/challenges-in-education/
+07:37:53	Warning: 	Moved Permanently for https://pgc.edu/?p=9210
+07:37:53	Warning: 	File has moved from https://pgc.edu/?p=9210 to https://pgc.edu/programs-offered-at-pgc/
+07:37:59	Warning: 	Moved Permanently for https://pgc.edu/?p=13798
+07:37:59	Warning: 	File has moved from https://pgc.edu/?p=13798 to https://pgc.edu/which-field-has-highest-salary-in-pakistan/
+07:38:06	Warning: 	Moved Permanently for https://pgc.edu/?p=4079
+07:38:06	Warning: 	File has moved from https://pgc.edu/?p=4079 to https://pgc.edu/news/musical-concert-by-pgc-phalia/
+07:38:14	Warning: 	Moved Permanently for https://pgc.edu/?p=13903
+07:38:14	Warning: 	File has moved from https://pgc.edu/?p=13903 to https://pgc.edu/online-mba-programs/
+07:38:20	Warning: 	Moved Permanently for https://pgc.edu/?p=9195
+07:38:20	Warning: 	File has moved from https://pgc.edu/?p=9195 to https://pgc.edu/facilities-at-the-disposal-of-students/
+07:38:26	Warning: 	Moved Permanently for https://pgc.edu/?p=9207
+07:38:26	Warning: 	File has moved from https://pgc.edu/?p=9207 to https://pgc.edu/academic-achievements-of-punjab-colleges-at-glance/
+07:38:32	Warning: 	Moved Permanently for https://pgc.edu/?p=13794
+07:38:32	Warning: 	File has moved from https://pgc.edu/?p=13794 to https://pgc.edu/what-should-i-do-after-bs-english/
+07:38:39	Warning: 	Moved Permanently for https://pgc.edu/?p=4075
+07:38:39	Warning: 	File has moved from https://pgc.edu/?p=4075 to https://pgc.edu/news/welcome-party-pgc-rawalpindi-islamabad/
+07:38:46	Warning: 	Moved Permanently for https://pgc.edu/?p=13909
+07:38:46	Warning: 	File has moved from https://pgc.edu/?p=13909 to https://pgc.edu/online-certificate-programs/
+07:38:52	Warning: 	Moved Permanently for https://pgc.edu/?p=9199
+07:38:52	Warning: 	File has moved from https://pgc.edu/?p=9199 to https://pgc.edu/extra-curricular-activities-at-pgc/
+07:38:52	Warning: 	Moved Permanently for https://pgc.edu/?p=9204
+07:38:52	Warning: 	File has moved from https://pgc.edu/?p=9204 to https://pgc.edu/scholarships-and-fee-concessions-for-all/
+07:38:52	Warning: 	Moved Permanently for https://pgc.edu/?p=13791
+07:38:52	Warning: 	File has moved from https://pgc.edu/?p=13791 to https://pgc.edu/what-the-research-says-about-the-academic-power-of-friendship/
+07:38:58	Warning: 	Moved Permanently for https://pgc.edu/?p=4064
+07:38:58	Warning: 	File has moved from https://pgc.edu/?p=4064 to https://pgc.edu/news/welcome-party-by-pgc-sargodha/
+07:39:04	Warning: 	Moved Permanently for https://pgc.edu/?p=13815
+07:39:04	Warning: 	File has moved from https://pgc.edu/?p=13815 to https://pgc.edu/education-importance/
+07:39:10	Warning: 	Moved Permanently for https://pgc.edu/?p=13823
+07:39:10	Warning: 	File has moved from https://pgc.edu/?p=13823 to https://pgc.edu/role-of-education-in-civilization/
+07:39:17	Warning: 	Moved Permanently for https://pgc.edu/?p=4061
+07:39:17	Warning: 	File has moved from https://pgc.edu/?p=4061 to https://pgc.edu/news/pgc-students-won-team-trophy/
+07:39:24	Warning: 	Moved Permanently for https://pgc.edu/?p=13817
+07:39:24	Warning: 	File has moved from https://pgc.edu/?p=13817 to https://pgc.edu/free-educational-games/
+07:39:31	Warning: 	Moved Permanently for https://pgc.edu/?p=13827
+07:39:31	Warning: 	File has moved from https://pgc.edu/?p=13827 to https://pgc.edu/smart-syllabus/
+07:39:44	Warning: 	Moved Permanently for https://pgc.edu/?p=4058
+07:39:44	Warning: 	File has moved from https://pgc.edu/?p=4058 to https://pgc.edu/news/welcome-party-by-pgc-ali-pur-chattha/
+07:39:49	Warning: 	Moved Permanently for https://pgc.edu/?p=13819
+07:39:49	Warning: 	File has moved from https://pgc.edu/?p=13819 to https://pgc.edu/how-does-gaming-effect-education/
+07:39:49	Warning: 	Moved Permanently for https://pgc.edu/?p=13825
+07:39:49	Warning: 	File has moved from https://pgc.edu/?p=13825 to https://pgc.edu/types-of-development-education/
+07:39:49	Warning: 	Moved Permanently for https://pgc.edu/?p=13821
+07:39:49	Warning: 	File has moved from https://pgc.edu/?p=13821 to https://pgc.edu/oriental-education-system/
+07:39:49	Warning: 	Moved Permanently for https://pgc.edu/?p=3791
+07:39:49	Warning: 	File has moved from https://pgc.edu/?p=3791 to https://pgc.edu/news/punjab-college-bahawalpur-hosted-inter-house-speech-competition/
+07:40:00	Warning: 	Moved Permanently for https://pgc.edu/?p=3789
+07:40:00	Warning: 	File has moved from https://pgc.edu/?p=3789 to https://pgc.edu/news/punjab-group-of-colleges-gujrat-orchestrated-naat-competition-in-both-boys-and-girls-campuses/
+07:40:08	Warning: 	Moved Permanently for https://pgc.edu/?p=3787
+07:40:08	Warning: 	File has moved from https://pgc.edu/?p=3787 to https://pgc.edu/news/punjab-group-of-college-bahawalpur-girls-organized-mehfil-e-milad/
+07:40:17	Warning: 	Moved Permanently for https://pgc.edu/?p=3770
+07:40:17	Warning: 	File has moved from https://pgc.edu/?p=3770 to https://pgc.edu/news/punjabians-cricket-league/
+07:40:28	Warning: 	Moved Permanently for https://pgc.edu/?p=3765
+07:40:28	Warning: 	File has moved from https://pgc.edu/?p=3765 to https://pgc.edu/news/welcome-party-by-pgc-mianwali/
+07:40:37	Warning: 	Moved Permanently for https://pgc.edu/?p=3755
+07:40:37	Warning: 	File has moved from https://pgc.edu/?p=3755 to https://pgc.edu/news/grand-prize-distribution-ceremony/
+07:40:44	Warning: 	Moved Permanently for https://pgc.edu/?p=3348
+07:40:44	Warning: 	File has moved from https://pgc.edu/?p=3348 to https://pgc.edu/news/153-top-positions-in-boards-of-intermediate/
+07:40:49	Warning: 	Moved Permanently for https://pgc.edu/?p=3172
+07:40:49	Warning: 	File has moved from https://pgc.edu/?p=3172 to https://pgc.edu/news/2-top-positions-in-bsc-result/
+07:40:56	Warning: 	Moved Permanently for https://pgc.edu/?p=3037
+07:40:56	Warning: 	File has moved from https://pgc.edu/?p=3037 to https://pgc.edu/news/top-positions-ajk-board/
+07:41:02	Warning: 	Moved Permanently for https://pgc.edu/?p=2976
+07:41:02	Warning: 	File has moved from https://pgc.edu/?p=2976 to https://pgc.edu/news/top-positions-in-federal-board/
+07:41:07	Warning: 	Moved Permanently for https://pgc.edu/?p=2959
+07:41:07	Warning: 	File has moved from https://pgc.edu/?p=2959 to https://pgc.edu/news/pgc-secured-top-positions/
+07:41:13	Warning: 	Moved Permanently for https://pgc.edu/?p=2952
+07:41:13	Warning: 	File has moved from https://pgc.edu/?p=2952 to https://pgc.edu/news/punjab-college-earns-maximum-pride-by-achieving-top-positions-in-b-sc-b-com-result-2018-bahauddin-zakariya-university/
+07:41:19	Warning: 	Moved Permanently for https://pgc.edu/?p=956
+07:41:19	Warning: 	File has moved from https://pgc.edu/?p=956 to https://pgc.edu/news/pgc-app-bringing-excellence-to-your-hands/
+07:41:26	Warning: 	Moved Permanently for https://pgc.edu/?p=899
+07:41:26	Warning: 	File has moved from https://pgc.edu/?p=899 to https://pgc.edu/news/pgc-bags-top-positions-in-mirpur/
+07:41:31	Warning: 	Moved Permanently for https://pgc.edu/?p=979
+07:41:31	Warning: 	File has moved from https://pgc.edu/?p=979 to https://pgc.edu/news/punjab-group-of-colleges-joins-hands-with-lums-school-of-education/
+07:41:37	Warning: 	Moved Permanently for https://pgc.edu/?p=981
+07:41:37	Warning: 	File has moved from https://pgc.edu/?p=981 to https://pgc.edu/news/punjab-college-notches-top-positions-in-university-of-the-punjab-b-com-result-2017/
+07:41:43	Warning: 	Moved Permanently for https://pgc.edu/?p=980
+07:41:43	Warning: 	File has moved from https://pgc.edu/?p=980 to https://pgc.edu/news/pgc-secures-16-top-positions-in-bachelors-result-2017/
+07:41:49	Warning: 	Moved Permanently for https://pgc.edu/?p=982
+07:41:49	Warning: 	File has moved from https://pgc.edu/?p=982 to https://pgc.edu/news/treasuring-success-pgc-notched-6-overall-top-positions-in-various-intermediate-boards-across-pakistan/
+07:41:55	Warning: 	Moved Permanently for https://pgc.edu/?p=983
+07:41:55	Warning: 	File has moved from https://pgc.edu/?p=983 to https://pgc.edu/news/moment-of-great-pride-148-top-positions-in-all-intermediate-boards-result-2017/
+07:42:01	Warning: 	Moved Permanently for https://pgc.edu/?p=987
+07:42:01	Warning: 	File has moved from https://pgc.edu/?p=987 to https://pgc.edu/news/punjab-college-bags-top-positions-in-university-of-the-punjab-b-sc-result-2017/
+07:42:08	Warning: 	Moved Permanently for https://pgc.edu/?p=984
+07:42:08	Warning: 	File has moved from https://pgc.edu/?p=984 to https://pgc.edu/news/punjab-college-stands-3rd-in-university-of-gujrat-b-sc-result-2017/
+07:42:14	Warning: 	Moved Permanently for https://pgc.edu/?p=985
+07:42:14	Warning: 	File has moved from https://pgc.edu/?p=985 to https://pgc.edu/news/punjab-college-obtains-top-positions-in-university-of-sargodha-b-sc-results-2017/
+07:42:20	Warning: 	Moved Permanently for https://pgc.edu/?p=986
+07:42:20	Warning: 	File has moved from https://pgc.edu/?p=986 to https://pgc.edu/news/punjab-college-notches-top-5-positions-in-islamia-university-bahawalpur-b-com-b-sc-results-2017/
+07:42:25	Warning: 	Moved Permanently for https://pgc.edu/?p=989
+07:42:25	Warning: 	File has moved from https://pgc.edu/?p=989 to https://pgc.edu/news/punjab-college-multan-tops-bahaudin-zakariya-university-b-sc-results-2017/
+07:42:31	Warning: 	Moved Permanently for https://pgc.edu/?p=988
+07:42:31	Warning: 	File has moved from https://pgc.edu/?p=988 to https://pgc.edu/news/punjab-college-shines-out-with-top-positions-in-federal-board-result-2017/
+07:42:36	Warning: 	Moved Permanently for https://pgc.edu/?p=976
+07:42:36	Warning: 	File has moved from https://pgc.edu/?p=976 to https://pgc.edu/news/punjab-college-multan-stands-out-with-top-5-positions-in-b-com-results/
+07:42:42	Warning: 	Moved Permanently for https://pgc.edu/?p=974
+07:42:42	Warning: 	File has moved from https://pgc.edu/?p=974 to https://pgc.edu/news/el-by-pgc-have-a-hands-on-learning-experience/
+07:42:48	Warning: 	Moved Permanently for https://pgc.edu/?p=990
+07:42:48	Warning: 	File has moved from https://pgc.edu/?p=990 to https://pgc.edu/news/students-can-prepare-for-intermediate-board-exams-at-pgc-campuses/
+07:42:55	Warning: 	Moved Permanently for https://pgc.edu/?p=9031
+07:42:55	Warning: 	File has moved from https://pgc.edu/?p=9031 to https://pgc.edu/news/pre-first-year-classes/
+07:43:01	Warning: 	Moved Permanently for https://pgc.edu/?p=9026
+07:43:01	Warning: 	File has moved from https://pgc.edu/?p=9026 to https://pgc.edu/news/faculty-required/
+07:43:07	Warning: 	Moved Permanently for https://pgc.edu/?p=9030
+07:43:07	Warning: 	File has moved from https://pgc.edu/?p=9030 to https://pgc.edu/news/punjab-group-of-colleges-arranged-a-motor-show/
+07:43:13	Warning: 	Moved Permanently for https://pgc.edu/?p=9029
+07:43:13	Warning: 	File has moved from https://pgc.edu/?p=9029 to https://pgc.edu/news/punjab-college-gujranwala-arranged-annual-sports-day-2/
+07:43:19	Warning: 	Moved Permanently for https://pgc.edu/?p=9028
+07:43:19	Warning: 	File has moved from https://pgc.edu/?p=9028 to https://pgc.edu/news/ensuring-safety-of-our-future-for-those-i-love-i-wear-a-helmet/
+07:43:25	Warning: 	Moved Permanently for https://pgc.edu/?p=9027
+07:43:25	Warning: 	File has moved from https://pgc.edu/?p=9027 to https://pgc.edu/news/141-students-from-punjab-colleges-awarded-cash-prizes-for-securing-top-positions-in-intermediate-results-2016/
+07:43:31	Warning: 	Moved Permanently for https://pgc.edu/?p=9025
+07:43:31	Warning: 	File has moved from https://pgc.edu/?p=9025 to https://pgc.edu/news/pgc-grabs-fbise-annual-general-sports-trophy-for-the-9th-time-consecutively/
+07:43:37	Warning: 	Moved Permanently for https://pgc.edu/?p=9024
+07:43:37	Warning: 	File has moved from https://pgc.edu/?p=9024 to https://pgc.edu/news/toppers-convention-16-in-honor-of-high-achieving-students/
+07:43:43	Warning: 	Moved Permanently for https://pgc.edu/?p=9021
+07:43:43	Warning: 	File has moved from https://pgc.edu/?p=9021 to https://pgc.edu/news/punjab-group-of-college-organizes-punjab-college-literary-festival-the-biggest-inter-punjab-colleges-competitions-fair-2016/
+07:43:49	Warning: 	Moved Permanently for https://pgc.edu/?p=9022
+07:43:49	Warning: 	File has moved from https://pgc.edu/?p=9022 to https://pgc.edu/news/pgc-secures-first-position-in-hockey-championship-organized-by-educational-board-multan/
+07:43:55	Warning: 	Moved Permanently for https://pgc.edu/?p=9020
+07:43:55	Warning: 	File has moved from https://pgc.edu/?p=9020 to https://pgc.edu/news/pgc-wins-football-championship-2016-17-regional-round-arranged-by-bise-lahore/
+07:44:01	Warning: 	Moved Permanently for https://pgc.edu/?p=9019
+07:44:01	Warning: 	File has moved from https://pgc.edu/?p=9019 to https://pgc.edu/news/7-top-positions-in-6-punjab-boards/
+07:44:07	Warning: 	Moved Permanently for https://pgc.edu/?p=9017
+07:44:07	Warning: 	File has moved from https://pgc.edu/?p=9017 to https://pgc.edu/news/top-positions-in-boards-of-intermediate-and-secondary-education-results-2016/
+07:44:13	Warning: 	Moved Permanently for https://pgc.edu/?p=9016
+07:44:13	Warning: 	File has moved from https://pgc.edu/?p=9016 to https://pgc.edu/news/top-positions-in-mcat-exam-2016/
+07:44:19	Warning: 	Moved Permanently for https://pgc.edu/?p=9015
+07:44:19	Warning: 	File has moved from https://pgc.edu/?p=9015 to https://pgc.edu/news/punjab-college-multan-clean-sweeps-top-5-positions-in-b-com-bahauddin-zakariya-university-results-2016/
+07:44:25	Warning: 	Moved Permanently for https://pgc.edu/?p=9014
+07:44:25	Warning: 	File has moved from https://pgc.edu/?p=9014 to https://pgc.edu/news/top-positions-in-b-sc-punjab-university-results-2016/
+07:44:31	Warning: 	Moved Permanently for https://pgc.edu/?p=9013
+07:44:31	Warning: 	File has moved from https://pgc.edu/?p=9013 to https://pgc.edu/news/top-3-positions-in-federal-board-hssc-results-2016/
+07:44:37	Warning: 	Moved Permanently for https://pgc.edu/?p=9012
+07:44:37	Warning: 	File has moved from https://pgc.edu/?p=9012 to https://pgc.edu/news/4th-annual-sports-gala/
+
+HTTrack Website Copier/3.49-5 mirror complete in 1 hours 16 minutes 57 seconds : 5841 links scanned, 5309 files written (510321921 bytes overall) [294297427 bytes received at 63742 bytes/sec], 287590116 bytes transferred using HTTP compression in 4413 files, ratio 21%, 55.0 requests per connection
+(55 errors, 1019 warnings, 0 messages)
